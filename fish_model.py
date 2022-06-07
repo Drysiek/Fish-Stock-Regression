@@ -20,14 +20,13 @@ def get_data():
     else:
         print(f'File "random_fish_stocking_rows.csv" already exists')
 
-    X = pd.read_csv('random_fish_stocking_rows.csv', sep=',')
-    Y = X['Number']
-    X = X.drop(['Number'], axis=1)
-    X = X.drop(['Waterbody'], axis=1)
+    x = pd.read_csv('random_fish_stocking_rows.csv', sep=',')
+    y = x['Number']
+    x = x.drop(['Number'], axis=1)
 
-    X = pd.get_dummies(X)
+    x = pd.get_dummies(x)
 
-    return X, Y
+    return x, y
 
 
 def func(x, *parameters):
