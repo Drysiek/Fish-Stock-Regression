@@ -14,7 +14,7 @@ def get_data():
         data_frame = data_frame[data_frame['Number'].notnull()]
         data_frame = data_frame[data_frame['Species'].notnull()]
         data_frame = data_frame[data_frame['Size'].notnull()]
-        data_frame = data_frame.sample(n=1000)
+        data_frame = data_frame.sample(n=2000)
         data_frame.to_csv('random_fish_stocking_rows.csv', index=False)
         print('Downloaded')
     else:
@@ -23,27 +23,17 @@ def get_data():
     X = pd.read_csv('random_fish_stocking_rows.csv', sep=',')
     Y = X['Number']
     X = X.drop(['Number'], axis=1)
+    X = X.drop(['Waterbody'], axis=1)
 
-    # transforming string data to int
-    co = list(set(X['County']))
-    wa = list(set(X['Waterbody']))
-    to = list(set(X['Town']))
-    mo = list(set(X['Month']))
-    sp = list(set(X['Species']))
-    X['County'] = X["County"].replace(tuple(co), tuple(range(len(co))))
-    X["Waterbody"] = X["Waterbody"].replace(tuple(wa), tuple(range(len(wa))))
-    X["Town"] = X["Town"].replace(tuple(to), tuple(range(len(to))))
-    X["Month"] = X["Month"].replace(tuple(mo), tuple(range(len(mo))))
-    X["Species"] = X["Species"].replace(tuple(sp), tuple(range(len(sp))))
+    X = pd.get_dummies(X)
 
     return X, Y
 
 
-def func(x, a, b, c, d, e, f, g, h):
-    result = h
-    p = [a, b, c, d, e, f, g]
-    for i in range(7):
-        result += x[x.columns[i]] * p[i]
+def func(x, *parameters):
+    result = parameters[len(x.columns)]
+    for i in range(len(x.columns)):
+        result += x[x.columns[i]] * parameters[i]
     return result
 
 
