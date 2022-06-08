@@ -1,1001 +1,601 @@
-Year,County,Waterbody,Town,Month,Number,Species,Size
-2018,Suffolk,Rattlesnake Creek,Islip,May,170.0,Rainbow Trout,8.9
-2016,Franklin,St. Regis River,Dickinson,May,1600.0,Rainbow Trout,9.6
-2013,Dutchess,Webatuck Creek,Northeast,April,1020.0,Brown Trout,8.7
-2013,Otsego,Wharton Creek,Burlington,April,100.0,Brown Trout,13.5
-2014,Cayuga,Otter Lake,Cato,June,5200.0,Walleye,1.6
-2019,Jefferson,Black River,Watertown,May,1400.0,Brown Trout,13.4
-2013,Wyoming,Cattaraugus Creek,Java,May,1240.0,Brown Trout,9.0
-2019,Warren,North Creek,Johnsburg,April,1300.0,Brook Trout,7.7
-2012,Broome,Oquaga Creek,Sanford,April,80.0,Brown Trout,13.0
-2017,Washington,Inman Pond,Fort Ann,September,250.0,Brook Trout,5.0
-2015,Delaware,Delaware River West Branch,"Hamden, Walton",April,480.0,Brown Trout,12.9
-2014,Sullivan,Sandburg Creek,Fallsburg,April,20.0,Brown Trout,13.5
-2020,Washington,Inman Pond,Fort Ann,September,170.0,Brook Trout,4.0
-2012,Erie,Cazenovia Creek-East Branch,Aurora,April,440.0,Brown Trout,8.2
-2016,Essex,Boreas River,North Hudson,April,800.0,Brook Trout,8.0
-2015,Wyoming,Cattaraugus Creek,Java,May,1450.0,Brown Trout,9.4
-2015,Hamilton,Little Rock Lake,Morehouse,September,300.0,Brook Trout,4.3
-2019,St Lawrence,Grass River,Russell,June,800.0,Brown Trout,7.9
-2016,Nassau,Upper Twin Pond,Hempstead,October,800.0,Brown Trout,12.0
-2016,Essex,North Branch Boquet River,Willsboro,April,600.0,Brown Trout,13.0
-2020,Broome,Oquaga Creek,Sanford,April,160.0,Brown Trout,13.1
-2015,Franklin,Horseshoe Pond,Santa Clara,September,4000.0,Brook Trout,4.0
-2013,Hamilton,South Branch West Canada Creek,"Hoffmeister,Morehouseville",May,2000.0,Brook Trout,9.3
-2013,Fulton,Caroga Creek,"Johnstown, Caroga",April,800.0,Brown Trout,7.9
-2015,Madison,Chenango River,Eaton,April,640.0,Brown Trout,7.9
-2011,Saratoga,Cole Brook,Northumberland,April,510.0,Brown Trout,8.1
-2019,Suffolk,West Lake,Brookhaven,March,300.0,Brown Trout,13.2
-2017,Essex,Spruce Mill Brook,Lewis,May,250.0,Brown Trout,8.2
-2011,Dutchess,Ten Mile River,Amenia,March,100.0,Brown Trout,12.8
-2014,St Lawrence,Oswegatchie River,Clifton,April,2000.0,Brook Trout,8.5
-2019,Franklin,Deer Pond,Santa Clara,May,470.0,Brown Trout,8.0
-2016,Chautauqua,Bear Lake,Pomfret,October,550.0,Muskellunge,8.7
-2015,Schoharie,Cobleskill (M. Cornwell cooper,Gilboa,September,1800.0,Tiger Muskellunge,9.3
-2011,Delaware,Beaver Kill,Colchester,April,300.0,Brown Trout,13.2
-2014,Greene,Schoharie Creek,"Jewett, Hunter",May,1030.0,Brown Trout,9.0
-2011,Wayne,Lake Ontario,Sodus,May,940.0,Lake Trout,6.5
-2013,Allegany,Dyke Creek,Andover,May,870.0,Brown Trout,8.9
-2017,Essex,Schroon River,Schroon,May,24000.0,Landlocked Salmon,1.0
-2012,Seneca,Seneca Lake,Lodi,September,9000.0,Brown Trout,9.9
-2012,Oneida,Fish Creek West Branch,Camden,April,2040.0,Brown Trout,8.2
-2015,St Lawrence,Oswegatchie River,Clifton,May,340.0,Brown Trout,13.4
-2018,Fulton,Knapps Long Lake,Stratford,October,400.0,Brook Trout,4.6
-2011,Oswego,Black Creek,Scriba,April,420.0,Brown Trout,7.5
-2016,Ulster,Beer Kill,Wawarsing,April,730.0,Brown Trout,9.0
-2013,Warren,Crandall Park Pond,Glens Falls,April,10.0,Rainbow Trout,14.5
-2014,Chemung,Newtown Creek,Horseheads,March,80.0,Brown Trout,13.9
-2016,Herkimer,North Lake,Ohio,April,2530.0,Splake,8.3
-2019,Sullivan,Sandburg Creek,Fallsburg,May,90.0,Brown Trout,9.0
-2018,St Lawrence,Little River,Fine,May,1700.0,Brook Trout,8.0
-2020,Franklin,Twelth Tee Pond,Santa Clara,October,200.0,Brook Trout,4.5
-2014,Dutchess,Roeliff Jansen Kill,Milan,March,400.0,Brown Trout,13.8
-2015,Niagara,Twelvemile Creek E Br,Wilson,April,7440.0,Steelhead,5.2
-2011,Chautauqua,Chautauqua Lake,"Chautauqua, Ellery",June,23630.0,Walleye,1.6
-2020,Chautauqua,Conewango Ck W Br,Villenova,April,480.0,Rainbow Trout,8.0
-2019,Cattaraugus,Lime Lake,Machias,September,800.0,Tiger Muskellunge,8.5
-2015,St Lawrence,Simmons Pond,Clifton,October,200.0,Brook Trout,4.5
-2011,Lewis,Little Otter Lake,Greig,September,1200.0,Brook Trout,4.5
-2014,Rensselaer,Kinderhook Creek,Nassau,May,2500.0,Brown Trout,8.3
-2019,Wyoming,Letchworth Park Pond,Genesee Falls,May,300.0,Brook Trout,9.6
-2014,Essex,East Branch Ausable River,Jay & Keene,April,2370.0,Rainbow Trout,8.4
-2020,Clinton,Saranac River,Saranac,April,260.0,Brown Trout,13.1
-2018,Lewis,Mad River,Montague,May,400.0,Brook Trout,8.4
-2020,Chemung,Cayuta Creek,Van Etten,November,5000.0,Brown Trout,6.6
-2017,Niagara,Lower Niagara River,Lewiston,May,37000.0,Steelhead,4.0
-2017,Sullivan,Neversink River,Fallsburg,May,580.0,Brown Trout,8.6
-2012,Oneida,Oneida Creek,Vernon,March,4170.0,Brown Trout,8.9
-2018,Madison,Upper Lelands Pond,Eaton,May,1480.0,Brown Trout,8.3
-2020,Sullivan,Willowemoc Creek,Rockland,May,960.0,Brown Trout,9.1
-2017,Warren,Upper Siamese Pond,Johnsburg,May,800.0,Round Whitefish,1.5
-2018,Otsego,Canadarago Lake,Exeter,June,40000.0,Walleye,1.3
-2017,Chautauqua,Lake Erie,Dunkirk,April,16170.0,Brown Trout,8.7
-2011,Hamilton,Indian River,Indian Lake,May,500.0,Brown Trout,13.6
-2020,Greene,Kaaterskill,Catskill,April,100.0,Brown Trout,13.7
-2019,St Lawrence,Dog Pond,Colton,September,600.0,Brook Trout,4.0
-2020,Essex,Willsboro Club Pond 2,Willsboro,April,70.0,Brown Trout,8.4
-2017,Wayne,S. Sanford (cooperator- Otsego,Wolcott,May,100000.0,Walleye,0.3
-2014,St Lawrence,West Branch St. Regis River,Parishville and Stockholm,May,3870.0,Brown Trout,8.6
-2019,Suffolk,Belmont Lake,Babylon,April,180.0,Brown Trout,8.8
-2016,Orange,Moodna Creek,Cornwall,March,2000.0,Rainbow Trout,9.0
-2016,Otsego,Basswood Pond,Burlington,June,300.0,Rainbow Trout,8.4
-2020,Suffolk,Carlls River,Babylon,March,150.0,Rainbow Trout,9.0
-2011,Herkimer,Little Salmon Lake,Ohio,October,1000.0,Brook Trout,4.8
-2018,Sullivan,Ten Mile River,Cochecton,April,40.0,Brown Trout,13.1
-2019,Franklin,Track Pond,Santa Clara,September,180.0,Brook Trout,4.0
-2014,Oneida,Mohawk River,Western,May,860.0,Brown Trout,8.3
-2011,Franklin,Little Ampersand Pond,Harrietstown,October,350.0,Brook Trout,5.2
-2011,Franklin,Meadow Pond,Harrietstown,October,900.0,Brook Trout,4.8
-2015,Warren,Hudson River,Johnsburg,May,4710.0,Brown Trout,8.1
-2015,Franklin,Lake Colby,Harrietstown,May,2910.0,Brown Trout,7.8
-2014,Clinton,Saranac River,Saranac,May,70.0,Brown Trout,9.2
-2011,Nassau,Upper Twin Pond,Hempstead,November,700.0,Brown Trout,11.2
-2018,Hamilton,Unknown Pond,Indian Lake,May,650.0,Brown Trout,7.1
-2012,Franklin,Salmon River,Malone,May,350.0,Brown Trout,13.8
-2019,Essex,East Branch Ausable River,Jay & Keene,April,3000.0,Rainbow Trout,8.0
-2016,Delaware,Delaware River West Branch,Delhi,April,360.0,Brown Trout,13.7
-2013,Orange,Walton Lake,Monroe,April,350.0,Brown Trout,13.3
-2011,Cattaraugus,Elton Creek,Freedom,May,850.0,Brown Trout,9.0
-2015,Cayuga,Little Sodus Bay,Sterling,May,25000.0,Chinook,3.7
-2018,Jefferson,Crystal Lake,Theresa,May,370000.0,Walleye,0.3
-2015,Madison,Oneida Creek,Smithfield,April,190.0,Brown Trout,7.9
-2017,Jefferson,Black River,Watertown,June,5300.0,Brown Trout,7.3
-2015,Warren,Schroon River,"Bolton, Brant Lk, Chester, Hor",May,2230.0,Brown Trout,8.1
-2019,Dutchess,Wappingers Creek,Poughkeepsie,April,2000.0,Rainbow Trout,9.0
-2018,Essex,Schroon River,Schroon,April,400.0,Brown Trout,12.0
-2017,St Lawrence,Star Lake,Fine,April,1000.0,Landlocked Salmon,7.2
-2015,Cattaraugus,Elton Creek,Freedom,April,200.0,Brown Trout,13.1
-2020,Orange,Bull Pond,Highlands,April,500.0,Brook Trout,8.2
-2012,Niagara,Eighteenmile Creek,Newfane,May,67100.0,Chinook,3.4
-2011,Suffolk,Nissequogue River,Smithtown,April,170.0,Brown Trout,8.5
-2011,Essex,Henderson Lake,Newcomb,June,390.0,Lake Trout,6.1
-2015,Schuyler,Cayuta Creek,Catherine,April,450.0,Brown Trout,14.6
-2012,Tompkins,Cayuga Lake,Ithaca (T),May,5000.0,Lake Trout,3.4
-2011,Chautauqua,Lake Erie,Dunkirk,April,16930.0,Brown Trout,8.5
-2015,Essex,Ray Brook,North Elba,May,260.0,Brook Trout,8.25
-2018,Greene,Batavia Kill,Ashland,April,350.0,Brown Trout,13.1
-2020,Wyoming,Buffalo Creek,Java,March,200.0,Brown Trout,13.1
-2015,Hamilton,Helms Pond,Indian Lake,September,300.0,Brook Trout,4.1
-2015,Madison,Chittenango Creek,Sullivan,April,940.0,Brown Trout,7.9
-2014,Essex,Latham Pond,Newcomb,October,700.0,Brook Trout,4.0
-2018,Essex,Paradox Lake,Schroon,May,1550.0,Lake Trout,6.9
-2016,Sullivan,Willowemoc Creek,Rockland,May,150.0,Brown Trout,13.8
-2018,Warren,Schroon River,"Bolton, Brant Lk, Chester, Hor",May,500.0,Brown Trout,13.4
-2019,Monroe,Oatka Creek,Wheatland,March,1510.0,Brown Trout,8.4
-2020,St Lawrence,Little River,"Canton, Russell",March,1470.0,Brown Trout,8.2
-2020,Hamilton,Brown Lake,Arietta,October,220.0,Brook Trout,4.7
-2013,Herkimer,West Canada Creek,"Fairfield, Herkimer, Newport",May,4290.0,Brown Trout,9.1
-2014,Hamilton,Upper Haymarsh Pond,Long Lake,September,300.0,Brook Trout,3.2
-2017,Washington,Batten Kill,Greenwich,May,1160.0,Brown Trout,8.0
-2020,Franklin,St. Regis River,Dickinson,April,1000.0,Brown Trout,13.1
-2012,Cattaraugus,Case Lake,Franklinville,May,1600.0,Brown Trout,9.0
-2014,Ulster,Rochester Creek,Rochester,April,50.0,Brown Trout,13.5
-2015,Essex,Upper Preston Pond,Newcomb,September,900.0,Brook Trout,4.0
-2013,Cattaraugus,Franklinville Retention Pond,Franklinville,April,400.0,Brook Trout,8.9
-2015,Rensselaer,Poesten Kill,Poestenkill,April,170.0,Brown Trout,7.8
-2019,Delaware,Delaware River West Branch,Kortright,April,800.0,Brown Trout,8.8
-2020,Franklin,Mountain Pond,Santa Clara,September,325.0,Brook Trout,4.5
-2012,Suffolk,Carmans River,Brookhaven,March,650.0,Rainbow Trout,8.9
-2011,Delaware,Cannonsville Reservoir,Deposit and Tompkins,May,6330.0,Brown Trout,9.1
-2016,Suffolk,Connetquot River,Islip,October,250.0,Brown Trout,12.2
-2011,Essex,Trout Pond,Moriah,October,250.0,Brook Trout,4.2
-2019,Madison,Cazenovia Lake,Cazenovia,June,30000.0,Walleye,1.3
-2015,Essex,Wolf Pond,North Hudson,October,2300.0,Brook Trout,4.3
-2020,Jefferson,Butterfield Lake,"Theresa, Alexandria",May,3680780.0,Walleye,0.3
-2019,Essex,Eagle Lake,"Crown Point, Ticonderoga",May,4080.0,Brown Trout,9.0
-2014,Ontario,Canandaigua Outlet,Phelps / Manchester,April,770.0,Brown Trout,8.6
-2016,Franklin,Rock Pond,Harrietstown,October,1750.0,Brook Trout,4.0
-2017,Nassau,Massapequa Reservoir,Oyster Bay,April,400.0,Rainbow Trout,9.1
-2018,Warren,Loon Lake,Chester,June,11988.0,Walleye,2.0
-2013,Cattaraugus,Elton Creek,Freedom,April,150.0,Brown Trout,8.7
-2017,Warren,Schroon River,"Bolton, Brant Lk, Chester, Horicon",May,500.0,Brown Trout,13.5
-2013,Clinton,Great Chazy River,Champlain,October,1150.0,Muskellunge,8.6
-2013,Westchester,Croton River,Cortlandt,April,150.0,Brown Trout,8.4
-2019,Hamilton,Trout Lake,Morehouse,October,1500.0,Brook Trout,4.3
-2017,Suffolk,Carmans River,Brookhaven,May,370.0,Brown Trout,9.4
-2011,Otsego,Basswood Pond,Burlington,May,250.0,Brown Trout,8.3
-2019,Jefferson,Millsite Lake,Theresa,May,500.0,Rainbow Trout,8.1
-2015,Suffolk,Connetquot River,Islip,April,170.0,Brown Trout,8.8
-2011,Westchester,Titicus River,North Salem,March,130.0,Brown Trout,8.8
-2016,Rensselaer,Poesten Kill,Poestenkill,April,390.0,Brown Trout,8.0
-2018,Clinton,Saranac River,Black Brook,May,3310.0,Rainbow Trout,9.2
-2018,Clinton,Scribner Pond,Plattsburgh,May,90.0,Rainbow Trout,9.2
-2012,Cattaraugus,Quaker Lake,Elko,April,400.0,Brown Trout,13.5
-2012,Clinton,Saranac River,Plattsburgh,May,1820.0,Brown Trout,8.2
-2013,Steuben,Canisteo River,Hornellsville,April,400.0,Brown Trout,12.7
-2012,Essex,Alder Meadow Brook,Schroon,April,400.0,Brook Trout,6.0
-2019,Franklin,Sunrise Pond,Santa Clara,September,480.0,Brook Trout,4.0
-2015,Essex,Cotters Pond,Schroon,October,400.0,Brook Trout,4.3
-2020,Westchester,Peekskill Hollow Brook,Cortlandt,March,150.0,Brown Trout,12.8
-2011,Broome,Chenango Lake,Fenton,May,3000.0,Rainbow Trout,9.2
-2020,Cortland,Otselic River,Cincinnatus,November,4300.0,Brown Trout,6.7
-2016,Suffolk,Upper Lake,Brookhaven,April,260.0,Brown Trout,8.9
-2014,Monroe,Irondequoit Creek,Pittsford,April,700.0,Brown Trout,8.4
-2014,Hamilton,South Twin Pond,Arietta,September,500.0,Brook Trout,3.7
-2016,Allegany,Rushford Lake,Caneadea,May,1550.0,Brown Trout,9.6
-2014,Franklin,Clamshell Pond,Santa Clara,October,1500.0,Brook Trout,4.2
-2019,Essex,Baily Pond,Schroon,September,480.0,Brook Trout,4.2
-2013,Franklin,Plum Brook,Malone,May,200.0,Brown Trout,13.1
-2018,Monroe,Lake Ontario,Greece,May,11745.0,Brown Trout,8.9
-2020,Oneida,Big Creek,Marshall,April,880.0,Brown Trout,8.6
-2014,Clinton,Great Chazy River,Champlain,October,1150.0,Muskellunge,8.6
-2020,Rensselaer,Poesten Kill,Poestenkill,April,100.0,Brown Trout,13.3
-2011,Madison,Oneida Creek,Smithfield,June,340.0,Brown Trout,9.8
-2014,Cattaraugus,Perrysburg Conservation Club P,Dayton,April,100.0,Brook Trout,9.0
-2019,Essex,Chubb River,North Elba,April,800.0,Brown Trout,8.0
-2012,Washington,Batten Kill,Salem,May,2310.0,Brown Trout,8.5
-2011,Sullivan,Mongaup River East Branch,Fallsburg,April,850.0,Brown Trout,8.3
-2012,Oneida,Mohawk River,Rome,March,6920.0,Brown Trout,8.9
-2012,Jefferson,Butterfield Lake,"Theresa, Alexandria",April,3020000.0,Walleye,0.4
-2019,Lewis,Black River,"Leyden, Lyonsdale",April,4960.0,Brown Trout,11.7
-2013,Otsego,Otego Creek,Hartwick,April,440.0,Brown Trout,7.8
-2017,Fulton,Crum Creek,Oppenheim,April,540.0,Brown Trout,8.0
-2016,Essex,Alder Meadow Brook,Schroon,April,600.0,Brook Trout,8.0
-2017,Dutchess,Wappingers Creek,Stanford,April,80.0,Brown Trout,13.2
-2012,St Lawrence,Ozonia Lake,Hopkinton,April,2370.0,Splake,8.4
-2012,Washington,Indian River,Granville,April,530.0,Brown Trout,8.4
-2013,Niagara,Eighteenmile Creek,Newfane,October,30000.0,Coho,4.0
-2017,Essex,Hudson River,Newcomb,April,700.0,Rainbow Trout,13.0
-2017,Herkimer,Brewer Lake,Webb,October,400.0,Brook Trout,5.0
-2015,Essex,Saranac River,St. Armand,April,2050.0,Rainbow Trout,8.4
-2016,Columbia,Weed Mines Pond,Ancram,April,200.0,Rainbow Trout,9.0
-2015,Sullivan,Chestnut Creek,Neversink,May,130.0,Brown Trout,8.8
-2016,Franklin,Loon Pond,Brighton,October,1400.0,Brook Trout,4.0
-2011,Warren,Lake George,"Bolton, Hague",June,17000.0,Landlocked Salmon,6.0
-2019,Essex,Cotters Pond,Schroon,September,480.0,Brook Trout,4.2
-2015,Franklin,Little Trout River,"Burke, Bellmont",June,680.0,Brown Trout,8.1
-2014,Delaware,Delaware River East Branch,"Middletown, Roxbury",April,50.0,Brown Trout,13.5
-2019,Madison,Otselic River,Georgetown,April,240.0,Brown Trout,11.7
-2012,Cattaraugus,Bay State Brook,Red House,March,490.0,Brown Trout,8.0
-2012,Sullivan,Beaver Brook,Highland,April,50.0,Brown Trout,13.7
-2015,Dutchess,Wappingers Creek,Pleasant Valley,April,940.0,Brown Trout,8.3
-2017,Cortland,Little York Lake,Homer,April,4500.0,Rainbow Trout,8.5
-2019,Saratoga,Kayaderosseras Creek,Milton,May,1460.0,Brown Trout,8.0
-2011,Madison,Oneida Creek,Smithfield,June,190.0,Brown Trout,9.8
-2016,Franklin,Lake Clear,Harrietstown,April,1200.0,Landlocked Salmon,6.7
-2017,Warren,Spuytenduivel Creek,Horicon,April,400.0,Brook Trout,9.8
-2020,Hamilton,North Mitchell Pond,Indian Lake,September,100.0,Brook Trout,4.0
-2013,Franklin,Little Trout River,"Burke, Bellmont",April,580.0,Brown Trout,8.4
-2014,Franklin,Grass Pond,Santa Clara,October,1550.0,Brook Trout,4.2
-2015,Dutchess,Sprout Creek,East Fishkill,March,330.0,Brown Trout,13.2
-2014,Livingston,Conesus Lake,"Livonia, Geneseo, Groveland, C",June,65000.0,Walleye,1.3
-2020,Warren,English Brook,Lake George,July,3080.0,Rainbow Trout,1.9
-2013,Essex,Trout Brook,Ticonderoga,May,220.0,Brown Trout,8.6
-2019,Jefferson,Skinner Creek,Ellisburg,April,350.0,Brown Trout,7.9
-2011,Allegany,Chenunda Creek,Willing,April,250.0,Brown Trout,8.3
-2017,Dutchess,Ten Mile River,Amenia,March,1070.0,Brown Trout,8.3
-2014,Allegany,Dodge Creek,Clarksville,May,1300.0,Brown Trout,9.2
-2012,Cattaraugus,Quaker Lake,Elko,May,3720.0,Brown Trout,8.7
-2018,Wayne,Lake Ontario,Sodus,May,39697.0,Lake Trout,6.98
-2015,Cattaraugus,Cattaraugus Creek S Br,East Otto,March,1030.0,Brown Trout,8.5
-2015,Allegany,Allen Lake,Allen,April,500.0,Brown Trout,12.6
-2019,Dutchess,Fishkill Creek,Beekman,March,3720.0,Brown Trout,8.8
-2018,Essex,East Branch Ausable River,Jay,May,800.0,Rainbow Trout,13.0
-2014,Suffolk,Laurel Lake,Southold,April,250.0,Brown Trout,8.9
-2015,Putnam,Bog Brook Res,Southeast,April,860.0,Brown Trout,8.8
-2012,Essex,Beaver Brook,Wilmington,April,250.0,Brook Trout,6.0
-2013,Suffolk,Belmont Lake,Babylon,March,150.0,Brown Trout,8.2
-2019,Lewis,Fish Creek East Branch,Lewis,June,440.0,Brown Trout,7.7
-2019,Lewis,Silver Dawn Lake,Diana,September,240.0,Brook Trout,4.4
-2016,Chemung,Eldridge Lake,Elmira,April,1000.0,Rainbow Trout,9.0
-2019,Sullivan,Fir Brook,Neversink,April,220.0,Brown Trout,8.8
-2013,Wyoming,Cattaraugus Creek,Java,June,370.0,Brown Trout,13.1
-2011,Erie,Cazenovia Creek-East Branch,Aurora,March,590.0,Brown Trout,8.4
-2019,Herkimer,Quiver Pond,Webb,April,300.0,Brook Trout,7.8
-2011,Delaware,Delaware River West Branch,Harpersfield,April,280.0,Brown Trout,13.0
-2016,Warren,English Brook,Lake George,April,300.0,Brook Trout,10.0
-2011,Westchester,Stone Hill River,Bedford,April,420.0,Brown Trout,8.6
-2012,Oneida,West Canada Creek,"Trenton, Deerfield",May,3640.0,Brown Trout,8.5
-2012,Rockland,Ramapo River,Sloatsburg,April,310.0,Brown Trout,8.6
-2019,Oswego,Salmon River Reservoir,Redfield,June,97237.0,Walleye,1.4
-2013,Essex,North Branch Boquet River,Willsboro,April,600.0,Brown Trout,13.0
-2018,Wayne,Maxwell Creek,Sodus,April,19950.0,Steelhead,4.8
-2012,Columbia,Kinderhook Creek,New Lebanon,March,1380.0,Brown Trout,8.4
-2020,Orange,Moodna Creek,Cornwall,March,100.0,Brown Trout,13.0
-2019,Warren,Thirteenth Lake 2,Johnsburg,May,934.0,Rainbow Trout,9.0
-2017,Essex,Westport Club Pond,Westport,April,100.0,Brook Trout,8.2
-2011,Tioga,West Branch Owego Creek,Richford,June,500.0,Brown Trout,13.5
-2017,Jefferson,Stony Creek,Henderson,May,2480.0,Brown Trout,7.1
-2017,Warren,Hudson River,Johnsburg,April,1000.0,Rainbow Trout,9.0
-2020,Warren,Schroon River,Tumblehead Falls,October,500.0,Brook Trout,6.8
-2016,Oswego,Little Salmon River,Mexico,May,5000.0,Steelhead,5.7
-2019,Oswego,Oswego River,Oswego (C),May,58060.0,Chinook,3.6
-2015,Clinton,Saranac River,Plattsburgh,May,158000.0,Landlocked Salmon,1.0
-2014,Sullivan,Ten Mile River East Branch,Tusten,April,30.0,Brown Trout,13.6
-2019,Cortland,East Branch Tioughnioga River,Truxton,May,350.0,Brown Trout,7.8
-2018,Essex,Twentyninth Pond,Minerva,June,90.0,Brown Trout,8.1
-2013,Saratoga,Bog Meadow Brook,Saratoga,April,360.0,Brown Trout,7.8
-2012,Orleans,Oak Orchard Creek,Carlton,April,7000.0,Steelhead,4.9
-2014,Clinton,Saranac River,Saranac,April,2320.0,Brown Trout,8.6
-2015,Essex,Dunk Pond,Minerva,September,800.0,Brook Trout,4.6
-2012,Suffolk,Argyle Lake,Babylon,March,500.0,Rainbow Trout,8.9
-2017,Orange,Woodbury Creek,Cornwall,April,500.0,Brown Trout,8.7
-2012,Warren,Schroon River,Riverbank 2,April,500.0,Rainbow Trout,9.48
-2019,Essex,Five-Mile Run,Ticonderoga,March,300.0,Brown Trout,6.0
-2017,Essex,Boquet River,Lewis,September,100.0,Brown Trout,19.0
-2020,Franklin,St. Regis River,Dickinson,April,1200.0,Rainbow Trout,9.0
-2014,Franklin,Panther Pond,Harrietstown,September,500.0,Brook Trout,4.2
-2017,Franklin,Owl Pond,Harrietstown,September,800.0,Brook Trout,4.0
-2016,Sullivan,Sandburg Creek,Fallsburg,May,220.0,Brown Trout,9.1
-2018,Herkimer,Little Evergreen Lake,Webb,October,160.0,Brook Trout,4.8
-2018,Essex,Clements Pond,Jay,September,120.0,Brook Trout,4.0
-2018,Hamilton,Owl Pond,Arietta,September,240.0,Brook Trout,5.0
-2017,Allegany,Genesee River,Wellsville,March,750.0,Brown Trout,13.2
-2012,Essex,Lower Cascade Lake,Keene,September,1100.0,Brook Trout,4.8
-2016,Dutchess,Webatuck Creek,Northeast,March,320.0,Brown Trout,13.5
-2013,Westchester,Amawalk Inlet,Somers,April,250.0,Brown Trout,8.4
-2019,Oswego,Salmon River,Redfield,May,450.0,Brook Trout,8.0
-2017,Madison,Otselic River,Georgetown,May,370.0,Brown Trout,9.0
-2019,Suffolk,Carmans River,Brookhaven,May,400.0,Brown Trout,9.0
-2012,Saratoga,Kayaderosseras Creek,"Greenfield, Milton",May,1480.0,Brown Trout,8.0
-2014,Essex,Ausable River,Jay,April,300.0,Brown Trout,13.0
-2011,Suffolk,Carlls River,Babylon,March,80.0,Brown Trout,8.8
-2017,Clinton,Saranac River,Plattsburgh,May,126000.0,Landlocked Salmon,1.0
-2014,Otsego,Wharton Creek,Burlington,April,1200.0,Brown Trout,8.0
-2013,Rockland,Stony Brook,Ramapo,March,250.0,Brown Trout,8.5
-2020,Allegany,Clarksville Town Pond,Clarksville,March,150.0,Rainbow Trout,8.1
-2013,Chemung,Sing Sing Creek,Big Flats,April,150.0,Brown Trout,8.7
-2019,Essex,Lilypad Pond,Ticonderoga,September,240.0,Brook Trout,4.2
-2012,Cattaraugus,Bone Run,South Valley,March,290.0,Brook Trout,8.9
-2018,Niagara,Lake Ontario,Newfane,May,39782.0,Lake Trout,7.2
-2018,Essex,Lake Champlain,"Chesterfield, Essex",May,12500.0,Lake Trout,9.0
-2018,Essex,Minerva Stream,Minerva,October,400.0,Brook Trout,6.0
-2017,Suffolk,Argyle Lake,Babylon,November,150.0,Brown Trout,12.0
-2017,Essex,Bartlett Pond,Moriah,September,100.0,Brown Trout,19.0
-2019,Clinton,North Branch Saranac River,Black Brook and Saranac,May,750.0,Brown Trout,8.9
-2011,Monroe,Irondequoit Creek,"Brighton, Penfield, Perinton",April,1250.0,Brown Trout,13.1
-2012,Broome,Nanticoke Creek,Union,March,1510.0,Brown Trout,8.9
-2020,St Lawrence,Van Rensselaer Creek,Pierrepont,March,220.0,Brown Trout,8.2
-2019,Lewis,Fish Creek East Branch,Lewis,April,800.0,Brown Trout,7.9
-2011,Rockland,Hessian Lake,Stony Point,March,100.0,Brown Trout,13.4
-2019,Steuben,Meads Creek,Campbell,March,300.0,Brown Trout,13.0
-2019,St Lawrence,St Regis River,Brasher Falls,October,2000.0,Lake Sturgeon,7.0
-2017,Niagara,Hyde Park Lake,Niagara Falls,April,200.0,Brown Trout,12.6
-2020,Hamilton,S Upper Pine Pond,Wells,September,130.0,Brook Trout,4.5
-2016,Westchester,Peekskill Hollow Brook,Cortlandt,March,150.0,Brown Trout,13.5
-2016,Delaware,Cannonsville Reservoir,Deposit and Tompkins,March,6470.0,Brown Trout,9.1
-2014,Allegany,Dyke Creek,Andover,April,200.0,Brown Trout,13.4
-2014,Nassau,Oyster Bay Mill Pond,Oyster Bay,March,100.0,Brown Trout,13.3
-2019,Allegany,Canaseraga Creek,Burns,April,1680.0,Brown Trout,9.0
-2013,Jefferson,Lake Ontario,Henderson,May,39810.0,Lake Trout,6.9
-2018,Livingston,Rattlesnake Pond 2,Ossian,October,200.0,Brook Trout,6.3
-2016,Broome,Chenango Lake,Fenton,April,3000.0,Rainbow Trout,9.3
-2012,Jefferson,Black River,Watertown,April,4440.0,Brown Trout,7.5
-2019,Sullivan,Willowemoc Creek,Neversink,June,1000.0,Brown Trout,9.2
-2014,Delaware,Delaware River East Branch,Middletown,April,1670.0,Brown Trout,8.7
-2013,Fulton,Cayadutta Creek,Johnstown(t),May,690.0,Brown Trout,8.0
-2013,Essex,Ausable River,Chesterfield,May,800.0,Rainbow Trout,13.0
-2012,Chautauqua,Canadaway Creek,Arkwright,April,240.0,Brook Trout,8.0
-2020,Greene,Batavia Kill,Windham,March,440.0,Brown Trout,8.8
-2011,Washington,Dead Lake,Jackson,May,250.0,Brown Trout,13.1
-2011,Essex,Saranac River,St. Armand,May,25.0,Rainbow Trout,19.0
-2019,Putnam,West Branch Reservoir,Carmel,April,4430.0,Brown Trout,9.1
-2013,Essex,Putnam Creek,Crown Point,March,750.0,Brown Trout,13.0
-2015,St Lawrence,Spectacle Ponds,Clifton,October,300.0,Brook Trout,4.5
-2020,Essex,West Branch Ausable River,Wilmington,April,900.0,Brown Trout,14.0
-2019,Essex,West Branch Ausable River,Jay,May,250.0,Brown Trout,13.0
-2020,Otsego,Schenevus Creek,Maryland,May,1640.0,Brown Trout,8.9
-2015,Essex,Barnes Pond,Minerva,September,500.0,Brook Trout,4.6
-2019,Hamilton,Haymarsh Pond,Long Lake,September,700.0,Brook Trout,4.2
-2014,Warren,Eagle Pond,Johnsburg,September,150.0,Brook Trout,3.7
-2016,Greene,Catskill Creek,Cairo,April,300.0,Brown Trout,13.6
-2012,Allegany,Vandermark Creek,"Scio, Ward",April,1060.0,Brown Trout,8.0
-2019,Hamilton,Moose River,"Inlet, Arietta",May,600.0,Brook Trout,7.8
-2012,Lewis,Oswegatchie River West Branch,Diana,April,770.0,Brook Trout,8.8
-2014,Putnam,Lake Gleneida,Carmel,April,790.0,Rainbow Trout,8.9
-2014,Warren,Schoon River,Warrensburg/Bolton,May,400.0,Rainbow Trout,9.5
-2016,Erie,Buffalo Creek,West Seneca,April,5000.0,Steelhead,4.9
-2012,Warren,Crandall Park,Glens Falls,May,200.0,Rainbow Trout,9.98
-2015,Hamilton,Seventh Lake,Inlet,June,300.0,Landlocked Salmon,7.0
-2011,Tompkins,"Enfield Ck, T4",Enfield,April,510.0,Brown Trout,9.0
-2015,Essex,Bass Lake,North Hudson,May,400.0,Rainbow Trout,8.1
-2015,Herkimer,Third Lake,Webb,May,450.0,Lake Trout,6.3
-2020,Essex,Cascade Brook,Keene,April,125.0,Brook Trout,8.0
-2014,Herkimer,Spruce Creek,Salisbury,April,2640.0,Brown Trout,7.9
-2015,Otsego,Elk Brook,Maryland,April,300.0,Brown Trout,8.0
-2020,Tompkins,Salmon Creek,Lansing,October,20000.0,Rainbow Trout,3.2
-2018,Monroe,Sandy Creek,Hamlin,April,64430.0,Chinook,3.2
-2013,Albany,Lisha Kill,Colonie,March,290.0,Brown Trout,7.8
-2015,Monroe,Irondequoit Creek,Pittsford,April,680.0,Brown Trout,8.3
-2012,Chemung,Sing Sing Creek,Big Flats,March,180.0,Brown Trout,8.6
-2016,Erie,Eighteenmile Creek,Boston,March,650.0,Brown Trout,7.9
-2015,Essex,Black Pond,North Elba,September,500.0,Brook Trout,4.0
-2019,Warren,Thirteenth Lake,Johnsburg,May,800.0,Splake,8.2
-2011,Oneida,Big Creek,Marshall,June,1020.0,Brown Trout,8.5
-2017,Hamilton,Deer Pond,Arietta,September,300.0,Brook Trout,5.0
-2013,Tioga,Oakley Corners Pond,Owego,September,200.0,Tiger Muskellunge,10.1
-2011,Oneida,Sauquoit Creek,New Hartford,April,1100.0,Brown Trout,8.0
-2012,Essex,Willsboro Club Pond 2,Willsboro,April,90.0,Brown Trout,9.5
-2017,Greene,Schoharie Creek,Jewett,April,410.0,Brown Trout,8.8
-2011,Erie,Cazenovia Creek-East Branch,Aurora,April,11560.0,Steelhead,4.6
-2020,Sullivan,Willowemoc Creek,Rockland,November,5600.0,Brown Trout,6.4
-2016,Suffolk,Southards Pond,Babylon,October,150.0,Brown Trout,12.2
-2014,Dutchess,Sprout Creek,La Grange,April,130.0,Brown Trout,8.4
-2011,Erie,Springville Field and Stream C,Concord,May,190.0,Brook Trout,9.2
-2014,Chautauqua,Clay Pond,Poland,April,100.0,Brown Trout,13.4
-2012,Delaware,Delaware River West Branch,"Hamden, Walton",April,480.0,Brown Trout,13.7
-2017,Madison,Sangerfield River,Hamilton,March,2150.0,Brown Trout,8.0
-2020,Hamilton,Feullard Lake,Morehouse,September,90.0,Brook Trout,4.6
-2019,Nassau,Massapequa Reservoir,Oyster Bay,April,900.0,Rainbow Trout,9.0
-2016,Essex,Moose Pond,St. Armand,April,300.0,Rainbow Trout,13.0
-2017,Westchester,Cross River Reservoir Outlet,Bedford,April,100.0,Brown Trout,13.0
-2017,Sullivan,Callicoon Creek East Branch,Delaware,May,290.0,Brown Trout,9.1
-2020,Hamilton,Sampson Lake,Arietta,September,1620.0,Brook Trout,4.7
-2018,Monroe,Irondequoit Creek,Mendon,April,27500.0,Steelhead,4.7
-2013,Ulster,Plattekill Creek,Saugerties,May,1020.0,Brown Trout,9.0
-2011,Dutchess,Wappingers Creek,Stanford,March,80.0,Brown Trout,13.4
-2011,Delaware,Delaware River East Branch,Middletown,April,350.0,Brown Trout,13.1
-2018,Warren,Glen Creek,Johnsburg,April,610.0,Brown Trout,8.0
-2017,Essex,West Branch Ausable River,North Elba,May,400.0,Rainbow Trout,15.0
-2018,Monroe,Lake Ontario,Hamlin,May,11745.0,Brown Trout,9.0
-2016,Monroe,Genesee River,Rochester,May,85250.0,Chinook,3.2
-2017,Delaware,East Sidney Lake,Sidney,June,3600.0,Walleye,1.4
-2016,Essex,Deadwater Pond,North Hudson,April,250.0,Brown Trout,13.0
-2017,Dutchess,Ten Mile River,Dover,March,330.0,Brown Trout,13.0
-2013,Putnam,Peekskill Hollow Brook,Putnam Valley,April,200.0,Brown Trout,13.4
-2011,Onondaga,Skaneateles Lake,Spafford,May,9000.0,Landlocked Salmon,5.5
-2019,Ulster,Beer Kill,Wawarsing,April,750.0,Brown Trout,8.7
-2013,Delaware,Delaware River West Branch,Delhi,April,360.0,Brown Trout,13.4
-2016,Essex,Goose Pond,Schroon,May,670.0,Rainbow Trout,8.3
-2013,Franklin,Green Pond,Santa Clara,October,1400.0,Brook Trout,4.8
-2019,Herkimer,Buck Pond,Webb,September,360.0,Brook Trout,4.4
-2014,Tompkins,Cayuga Lake,Ithaca (T),November,40000.0,Lake Trout,6.4
-2020,Fulton,East caraga lake,caroga,April,900.0,Rainbow Trout,8.6
-2011,St Lawrence,Clear Pond,Parishville,November,1000.0,Brook Trout,4.2
-2012,St Lawrence,Plumb Brook,Russell,May,2030.0,Brown Trout,8.2
-2017,Delaware,Big Pond,Andes,September,240.0,Brown Trout,15.6
-2016,Broome,Patterson Pond (#1),Union,April,800.0,Rainbow Trout,9.5
-2011,Putnam,Croton River East Branch,Southeast,April,2370.0,Brown Trout,8.8
-2013,Essex,Upper Preston Pond,Newcomb,October,500.0,Brook Trout,3.9
-2018,Chautauqua,Cattaraugus Creek,Hanover,April,90000.0,Steelhead,4.9
-2011,Fulton,East Caroga Lake,Caroga,April,1200.0,Rainbow Trout,7.9
-2011,Monroe,Irondequoit Creek,Pittsford,June,690.0,Brown Trout,9.3
-2012,Sullivan,Beaver Kill,Rockland,April,300.0,Brown Trout,13.6
-2015,Washington,Hartshorn Brook,Greenwich,May,300.0,Brown Trout,7.9
-2018,Tioga,Owego Creek,"Tioga, Owego",May,870.0,Brown Trout,9.4
-2016,Essex,Winch Pond,Wilmington,October,550.0,Brook Trout,4.0
-2018,Tioga,Cayuta Creek,Barton,May,780.0,Brown Trout,9.4
-2011,Sullivan,Callicoon Creek,Delaware,April,680.0,Brown Trout,8.8
-2019,Oswego,Beaverdam Brook,Albion,April,8480.0,Landlocked Salmon,7.3
-2017,Clinton,Chazy Lake,Dannemora,April,7700.0,Rainbow Trout,9.0
-2020,Saratoga,Kayaderosseras Creek,Greenfield,March,370.0,Brown Trout,8.8
-2019,Orleans,Oak Orchard Creek,Carlton,April,10000.0,Steelhead,5.7
-2020,Cattaraugus,Bone Run,South Valley,March,220.0,Brown Trout,9.0
-2013,Sullivan,Willowemoc Creek,Rockland,May,140.0,Brown Trout,13.4
-2017,Cortland,Otselic River,Cincinnatus,May,280.0,Brown Trout,13.0
-2020,Essex,Clements Pond,Jay,September,98.0,Brook Trout,4.5
-2017,Hamilton,Stephens Pond,Indian Lake,October,1300.0,Brown Trout,5.0
-2019,Chautauqua,Goose Creek,"N Harmony, Harmony",March,1050.0,Brook Trout,8.2
-2015,Madison,Chittenango Creek,Sullivan,April,160.0,Brown Trout,12.4
-2012,Suffolk,Connetquot River,Islip,March,600.0,Rainbow Trout,8.9
-2016,Ulster,Sawkill Creek,Woodstock,April,540.0,Brown Trout,9.0
-2012,Erie,Main Park Pond - Village of Cl,Clarence,April,500.0,Rainbow Trout,9.4
-2018,Essex,Palmer Dam Pond,North Hudson,April,250.0,Brown Trout,12.0
-2016,Washington,Batten Kill,Greenwich,June,250.0,Brown Trout,12.7
-2020,Essex,Lost Pond,Ticonderoga,May,750.0,Rainbow Trout,8.6
-2013,Greene,Batavia Kill,Windham,May,70.0,Brown Trout,9.0
-2016,Essex,Westport Reservoir,Westport,March,900.0,Brook Trout,8.0
-2020,Essex,Trout Brook,Ticonderoga,March,125.0,Brook Trout,8.0
-2012,Onondaga,Seneca River,Van Buren,September,6800.0,Tiger Muskellunge,10.4
-2019,Essex,Ward Pond,Newcomb,May,130.0,Brown Trout,8.0
-2020,Herkimer,Fourth Lake,Webb,April,5800.0,Lake Trout,6.6
-2014,Orleans,Lake Ontario,Carlton,May,40290.0,Lake Trout,6.3
-2018,Dutchess,Fishkill Creek,Beekman,March,3650.0,Brown Trout,9.2
-2014,Tompkins,Salmon Creek,Lansing,April,150.0,Brown Trout,13.7
-2018,Columbia,Lake Taghkanic,Gallatin,June,3360.0,Walleye,1.7
-2018,Westchester,Croton River,Cortlandt,March,780.0,Rainbow Trout,9.0
-2011,Herkimer,Third Lake,Webb,October,6000.0,Rainbow Trout,5.6
-2013,Franklin,Benz Pond,Waverly,September,500.0,Brook Trout,4.1
-2011,Putnam,Lake Gleneida,Carmel,June,700.0,Lake Trout,6.0
-2017,Cayuga,Little Sodus Bay,Sterling,May,47500.0,Chinook,4.1
-2018,Tompkins,Fall Creek,Groton,April,300.0,Brown Trout,13.5
-2019,Allegany,Hunt Creek,Alma,April,220.0,Brown Trout,9.0
-2019,Herkimer,Steele Creek,German Flats,April,900.0,Rainbow Trout,8.5
-2011,Hamilton,Otter Brook,Morehouse,June,750.0,Brook Trout,9.6
-2014,Jefferson,Lake of the Woods,Theresa,May,900.0,Lake Trout,6.8
-2014,Hamilton,Grassy Pond,Indian Lake,September,400.0,Brook Trout,3.2
-2018,Sullivan,Sandburg Creek,Fallsburg,May,90.0,Brown Trout,9.4
-2020,Cattaraugus,Quaker Run,Cold Spring,March,1340.0,Rainbow Trout,8.1
-2012,Essex,Roes Pond (Special Kids Fishing Area),Moriah,May,600.0,Rainbow Trout,14.0
-2020,Essex,Mirror Lake,North Elba,April,450.0,Lake Trout,6.5
-2016,Allegany,Allen Lake,Allen,May,2230.0,Brook Trout,9.4
-2015,Greene,Schoharie Creek,"Jewett, Lexington",April,200.0,Brown Trout,13.1
-2014,Erie,Cazenovia Creek-East Branch,Aurora,March,2720.0,Brown Trout,7.8
-2016,Rockland,Sparkill Creek,Orangetown,March,690.0,Brown Trout,8.9
-2011,Monroe,Irondequoit Bay,"IRONDEQUOIT, PENFIELD, WEBSTER",June,11640.0,Walleye,1.7
-2013,Fulton,East Canada Creek,"Oppenheim, Stratford",April,5380.0,Brown Trout,7.9
-2015,Essex,Crane Pond,Schroon,May,1500.0,Rainbow Trout,8.1
-2018,Sullivan,Beaver Kill,Rockland,May,1390.0,Brown Trout,9.4
-2011,Chenango,Genegantslet Creek,Mcdonough,April,380.0,Brown Trout,8.2
-2013,Essex,Owen Pond,North Elba,May,330.0,Brown Trout,8.2
-2018,Madison,Old Chenango Canal,Madison,April,1130.0,Brown Trout,7.9
-2011,Erie,Cazenovia Creek-East Branch,Aurora,March,2620.0,Brown Trout,8.4
-2018,Dutchess,Webatuck Creek,Northeast,March,1910.0,Brown Trout,9.3
-2012,Essex,West Branch Ausable,North Elba,May,250.0,Rainbow Trout,14.0
-2014,Jefferson,Sixberry Lake,Theresa,May,650.0,Lake Trout,6.8
-2019,Essex,Coldspring Pond,North Elba,May,90.0,Brown Trout,8.0
-2016,Franklin,Bear Pond,Harrietstown,October,1400.0,Brook Trout,5.5
-2014,Suffolk,Connetquot River,Islip,March,260.0,Brown Trout,8.8
-2018,Oneida,Black River,"Boonville, Forestport",April,5740.0,Brown Trout,8.0
-2012,Orleans,Lake Ontario,Carlton,May,14960.0,Brown Trout,8.6
-2016,Oneida,Hinckley Reservoir,Trenton,May,5000.0,Rainbow Trout,9.2
-2017,Rensselaer,Walloomsac River,Hoosick,April,1070.0,Brown Trout,8.0
-2020,Jefferson,Felts Mills Creek,"Champion, Rutland",April,1200.0,Brook Trout,8.8
-2011,Dutchess,Webatuck Creek,Northeast,April,1190.0,Brown Trout,8.4
-2018,Albany,Hannacrois Creek,Coeymans,April,1040.0,Brown Trout,7.9
-2016,Essex,Rogers Brook,Schroon,May,260.0,Brown Trout,8.1
-2012,Chautauqua,Chautauqua Lake,Chautauqua,October,510.0,Muskellunge,8.4
-2012,Oneida,Black River,Forestport,April,100.0,Brown Trout,13.6
-2017,Niagara,Lake Ontario,Newfane,June,3280.0,Brown Trout,7.3
-2020,Herkimer,Buck Pond,Webb,September,190.0,Brook Trout,4.7
-2017,Hamilton,Castor Pond,Morehouse,September,450.0,Brook Trout,5.0
-2015,Delaware,Delaware River West Branch,"Hamden, Walton",April,3940.0,Brown Trout,8.3
-2015,Hamilton,Lake Pleasant,Lk Pleasant,June,29000.0,Walleye,1.5
-2016,Franklin,Polliwog Pond,Santa Clara,April,1290.0,Brown Trout,8.2
-2018,Essex,West Branch Ausable River,Jay,May,250.0,Brown Trout,13.0
-2015,Livingston,Rattlesnake Pond 1,Ossian,September,200.0,Brook Trout,6.5
-2017,Essex,Paradox Lake,Schroon,April,5300.0,Rainbow Trout,9.0
-2019,Franklin,Salmon River,Malone,May,5490.0,Brown Trout,7.8
-2014,Essex,Cold Brook,WILLSBORO,June,400.0,Brook Trout,9.0
-2014,Oswego,Oswego River,Oswego (C),May,41890.0,Chinook,3.3
-2013,Essex,Upper Cascade Lake,Keene,November,500.0,Brook Trout,6.5
-2011,Essex,Whortleberry Pond,Schroon,October,1000.0,Brook Trout,4.2
-2018,Franklin,Horseshoe Pond,Santa Clara,September,3190.0,Brook Trout,4.0
-2020,Oneida,Ninemile Creek,"Marcy, Trenton",April,2310.0,Rainbow Trout,8.7
-2014,Rensselaer,Long Pond,Grafton,April,1720.0,Brown Trout,8.6
-2016,Ontario,Canandaigua Outlet,Phelps / Manchester,April,160.0,Brown Trout,13.6
-2019,Essex,Rogers Brook,Schroon,May,270.0,Brown Trout,8.0
-2015,Franklin,Salmon River,Malone,May,2700.0,Rainbow Trout,8.6
-2020,Rensselaer,Wynants Kill,N Greenbush,March,590.0,Brown Trout,8.8
-2019,Greene,East Kill,Jewett,May,710.0,Brown Trout,8.3
-2017,Delaware,Beaver Kill,Colchester,May,1320.0,Brown Trout,9.0
-2018,Delaware,Delaware River East Branch,Colchester,April,370.0,Brown Trout,13.0
-2019,Herkimer,West Canada Creek,"Fairfield, Herkimer, Newport",June,3100.0,Brown Trout,7.7
-2011,Essex,West Branch Ausable,Wilmington,May,75.0,Rainbow Trout,19.0
-2014,Schenectady,Lisha Kill,Niskayuna,April,790.0,Brown Trout,7.8
-2017,Orange,Shawangunk Kill,Crawford,March,3700.0,Rainbow Trout,9.0
-2018,St Lawrence,Church Pond,Colton,September,320.0,Brook Trout,4.5
-2012,Madison,Chittenango Creek,Sullivan,April,980.0,Brown Trout,8.0
-2018,Seneca,Seneca Lake,Lodi,March,18790.0,Brown Trout,8.9
-2020,Delaware,Little Pond,Andes,March,70.0,Brown Trout,8.8
-2016,Clinton,Saranac River,Plattsburgh,March,45000.0,Landlocked Salmon,7.0
-2017,Franklin,Lost Pond,Brighton,May,300.0,Brook Trout,2.5
-2014,Essex,Hatch Pond,North Hudson,September,500.0,Brook Trout,3.8
-2012,Essex,Bartlett Pond,Moriah,June,300.0,Brown Trout,14.0
-2015,Jefferson,Stony Creek,Henderson,May,2570.0,Brown Trout,7.5
-2019,Jefferson,North Sandy Creek,Ellisburg,April,14380.0,Steelhead,4.8
-2013,Franklin,Negro Brook,Franklin,April,290.0,Brown Trout,8.1
-2020,Clinton,Saranac River,Black Brook,April,1405.0,Rainbow Trout,9.0
-2016,Delaware,Little Delaware River,Bovina,April,340.0,Brown Trout,8.9
-2014,Erie,Lake Erie,Evans,May,4300.0,Brown Trout,8.6
-2013,Essex,Oliver Pond,Schroon,May,510.0,Brown Trout,8.0
-2013,Essex,Baily Pond,Schroon,September,200.0,Brook Trout,3.7
-2011,Sullivan,Callicoon Ck North Branch,Callicoon,May,130.0,Brown Trout,8.8
-2012,St Lawrence,Cranberry Lake,Clifton,April,6730.0,Brook Trout,8.1
-2017,Erie,Eighteen Mile Ck S Br,Eden,April,20000.0,Steelhead,4.6
-2015,Monroe,Lake Ontario,Greece,May,15410.0,Brown Trout,7.9
-2019,Hamilton,Owlshead Pond,Long Lake,September,480.0,Brook Trout,4.0
-2018,Madison,Cowaselon Creek,Oneida,April,1130.0,Brown Trout,7.9
-2020,Dutchess,Sylvan Lake,Beekman,April,1470.0,Brown Trout,8.9
-2019,Ulster,Esopus Creek,Olive,April,1950.0,Brown Trout,13.8
-2019,Cortland,West Branch Tioughnioga River,Homer,April,3190.0,Brown Trout,7.6
-2011,Essex,Gay Brook,Chesterfield,June,300.0,Brook Trout,8.0
-2016,Rensselaer,Kinderhook Creek,Stephentown,April,2670.0,Brown Trout,8.0
-2014,Essex,LAKE PLACID,NORTH ELBA,March,800.0,Rainbow Trout,13.0
-2018,St Lawrence,Horseshoe Lake,Piercefield,September,2100.0,Tiger Muskellunge,9.5
-2014,Warren,Schoon River,Chestertown,May,750.0,Brook Trout,10.2
-2014,Dutchess,Crum Elbow Creek,Hyde Park,March,200.0,Rainbow Trout,8.9
-2015,Hamilton,Beaverdam Pond,Morehouse,September,200.0,Brook Trout,4.3
-2013,Hamilton,Little Rock Lake,Morehouse,September,200.0,Brook Trout,3.7
-2013,Sullivan,Beaver Kill,Rockland,June,60.0,Brown Trout,13.1
-2018,Suffolk,Kahler Pond,Brookhaven,March,430.0,Rainbow Trout,9.0
-2011,Suffolk,East Lake,Brookhaven,March,250.0,Brown Trout,8.8
-2019,Putnam,Lake Gleneida,Carmel,May,700.0,Lake Trout,6.6
-2015,Rockland,Ramapo River,Sloatsburg,March,200.0,Brown Trout,13.1
-2020,Dutchess,Wappingers Creek,Poughkeepsie,April,4120.0,Brown Trout,8.8
-2018,Rensselaer,Walloomsac River,Hoosick,May,260.0,Brown Trout,8.3
-2019,Franklin,Alder Brook,Franklin,April,350.0,Brook Trout,8.3
-2018,Herkimer,Nicks Lake,Webb,May,1740.0,Brown Trout,8.1
-2012,Franklin,Negro Brook,Franklin,April,350.0,Brown Trout,8.2
-2015,Herkimer,Buck Pond,Webb,September,500.0,Brook Trout,4.6
-2020,Wyoming,Little Tonawanda Creek,Middlebury,March,510.0,Brown Trout,9.0
-2012,Greene,Catskill Creek,Cairo,April,3330.0,Brown Trout,8.4
-2013,Fulton,Wolford's Pond,Johnstown,April,150.0,Brown Trout,7.9
-2012,Oneida,Hinckley Reservoir,Trenton,June,600.0,Rainbow Trout,10.0
-2012,Oswego,South Branch Grindstone Creek,Richland,October,2000.0,Brook Trout,5.3
-2013,Delaware,Delaware River West Branch,Harpersfield,April,280.0,Brown Trout,13.4
-2015,Hamilton,Mud Lake,Arietta,September,2000.0,Brook Trout,4.4
-2013,Essex,Schroon River,Schroon,April,20000.0,Landlocked Salmon,1.1
-2017,Clinton,North Branch Great Chazy River,Mooers,April,1280.0,Brown Trout,8.4
-2015,Allegany,Dyke Creek,Andover,April,200.0,Brown Trout,13.1
-2015,Livingston,Conesus Lake,"Livonia, Geneseo, Groveland, C",September,9500.0,Tiger Muskellunge,9.2
-2012,Cattaraugus,County Pond B,Randolph,April,100.0,Brook Trout,8.9
-2015,Essex,Hudson River,Minerva,May,5100.0,Rainbow Trout,8.0
-2020,Cayuga,Owasco Lake,Scipio,April,5000.0,Rainbow Trout,6.1
-2012,Franklin,Echo Pond,Santa Clara,November,222.0,Brook Trout,4.3
-2016,Sullivan,Neversink River,Thompson,May,730.0,Brown Trout,9.1
-2017,Ulster,Sawkill Creek,Woodstock,April,520.0,Brown Trout,8.9
-2018,Hamilton,Jessup River,Lake Pleasant,June,1100.0,Brook Trout,9.1
-2014,Ulster,Esopus Creek,Shandaken,May,2160.0,Brown Trout,9.0
-2015,Wyoming,Tonawanda Creek,Orangeville,May,770.0,Brown Trout,9.2
-2012,Monroe,Oatka Creek,Wheatland,April,1150.0,Brown Trout,8.2
-2018,Franklin,Salmon River,Malone,May,200.0,Brown Trout,13.6
-2020,St Lawrence,St Lawrence River,Ogdensburgh,October,7950.0,Lake Sturgeon,6.5
-2017,Herkimer,Tied Lake,Webb,October,200.0,Brook Trout,5.0
-2015,Jefferson,Grass Lake,Theresa,September,1600.0,Tiger Muskellunge,9.4
-2020,Erie,Sprague Brook Park - Foote Ro,Concord,April,50.0,Brown Trout,13.6
-2014,Warren,Schroon River,"Bolton, Brant Lk, Chester, Hor",May,1970.0,Rainbow Trout,8.6
-2011,Steuben,Cohocton River,Cohocton,March,1680.0,Brown Trout,8.8
-2012,Essex,McKenzie Brook (upstream of falls on Fish & Game Club Property),Moriah,April,300.0,Brook Trout,6.0
-2020,Hamilton,Moose River,Morehouse,May,690.0,Brook Trout,7.6
-2017,Cattaraugus,Great Valley Creek,Ellicottville,March,370.0,Brown Trout,9.0
-2013,Cattaraugus,Alleghany River,Olean,November,399.0,Gilt Darter,29.0
-2020,Delaware,Ouleout Creek,Franklin,April,400.0,Brown Trout,13.5
-2020,Sullivan,Sandburg Creek,Fallsburg,May,70.0,Brown Trout,8.4
-2012,Warren,Mud Ponds,Johnsburg,November,400.0,Brook Trout,4.5
-2019,Putnam,Croton River West Branch,Carmel,March,580.0,Brown Trout,8.8
-2015,Broome,Nanticoke Lake,Lisle,April,2300.0,Rainbow Trout,9.2
-2011,Franklin,Lake Colby,Harrietstown,May,3400.0,Rainbow Trout,7.9
-2011,Fulton,Bacon Brook,Oppenheim,September,400.0,Brown Trout,5.5
-2013,Essex,Chapel Pond,Keene,October,500.0,Brook Trout,3.8
-2013,Lewis,Otter Creek,Greig,June,250.0,Brown Trout,13.1
-2017,Chenango,Otselic River,Pitcher,April,6680.0,Brown Trout,8.0
-2011,Clinton,Upper Chateaugay Lake,Dannemora,April,2900.0,Lake Trout,6.1
-2018,Cattaraugus,Quaker Lake,Elko,April,3650.0,Brown Trout,8.9
-2020,Westchester,Titicus Reservoir,North Salem,March,3150.0,Rainbow Trout,9.0
-2012,Hamilton,Indian River,Indian Lake,April,500.0,Brown Trout,12.8
-2017,Hamilton,Crotched Pond,Indian Lake,September,2800.0,Brook Trout,4.0
-2013,Hamilton,Owlshead Pond,Long Lake,September,400.0,Brook Trout,4.1
-2011,Oneida,Lansing Kill,"Western, Ava",May,2160.0,Brown Trout,8.5
-2020,Yates,Keuka Lake Outlet,"Milo, Torrey",March,1120.0,Brook Trout,7.2
-2017,Saratoga,Kayaderosseras Creek,Greenfield,April,410.0,Brown Trout,8.2
-2019,Orange,Wawayanda Creek,Warwick,April,710.0,Brown Trout,8.6
-2016,Wyoming,Buffalo Creek,Java,March,200.0,Brown Trout,13.6
-2012,Saratoga,Saratoga Lake,Stillwater,April,13020000.0,Walleye,0.4
-2019,Seneca,Seneca Lake,Lodi,March,19140.0,Brown Trout,8.1
-2013,Washington,Mettawee River,Whitehall,April,3200.0,Brown Trout,7.9
-2014,Ontario,Honeoye Lake,Canadice,May,8700000.0,Walleye,0.4
-2020,Essex,West Branch Ausable River,North Elba,April,480.0,Brown Trout,13.0
-2011,Dutchess,Wappingers Creek,Stanford,March,210.0,Brown Trout,13.4
-2012,Suffolk,Belmont Lake,Babylon,April,180.0,Brown Trout,8.6
-2011,Dutchess,Sprout Creek,East Fishkill,April,640.0,Brown Trout,8.6
-2013,Chautauqua,Walnut Creek,Hanover,April,10000.0,Steelhead,4.7
-2013,St Lawrence,Spectacle Ponds,Clifton,October,200.0,Brook Trout,4.1
-2016,Cattaraugus,Ischua Creek,Franklinville,April,950.0,Brown Trout,13.5
-2017,Essex,Gay Brook,Chesterfield,April,350.0,Brook Trout,7.0
-2019,Schoharie,Mallet Pond,Fulton,April,230.0,Rainbow Trout,8.9
-2017,Ulster,Vernooy Kill,Wawarsing,May,780.0,Brook Trout,9.0
-2013,Yates,Keuka Lake Outlet,"Milo, Torrey",April,400.0,Brown Trout,13.2
-2020,Steuben,Canisteo River,Hornellsville,May,75.0,Brown Trout,13.2
-2015,St Lawrence,Parishville Reservoir,Parishville,April,1280.0,Brown Trout,7.8
-2017,Allegany,Hunt Creek,Alma,April,210.0,Brown Trout,9.0
-2019,Essex,Big Sherman Pond,Minerva,October,600.0,Brook Trout,4.5
-2017,Essex,East Branch Ausable River,Jay,April,200.0,Rainbow Trout,16.0
-2020,Herkimer,Salmon Lake,webb,May,300.0,Landlocked Salmon,6.7
-2012,Nassau,Massapequa Reservoir,Oyster Bay,March,300.0,Brown Trout,13.4
-2019,Lewis,Oswegatchie River West Branch,Croghan,May,650.0,Brook Trout,7.8
-2014,Monroe,Oatka Creek,Wheatland,May,150.0,Brown Trout,13.4
-2020,Genesee,Oatka Creek,Le Roy,April,1250.0,Brown Trout,8.4
-2017,Rensselaer,Poesten Kill,Poestenkill,April,370.0,Brown Trout,7.9
-2011,Herkimer,Tied Lake,Webb,October,200.0,Brook Trout,5.0
-2012,Niagara,Lower Niagara River,Porter,May,10000.0,Steelhead,5.1
-2018,Putnam,Croton River West Branch,Carmel,March,570.0,Brown Trout,9.1
-2015,Tompkins,Enfield Creek,Ithaca (C),May,12500.0,Rainbow Trout,6.2
-2015,Delaware,Delaware River West Branch,Delhi,April,280.0,Brown Trout,12.9
-2019,Greene,Schoharie Creek,"Jewett, Hunter",April,1060.0,Brown Trout,8.8
-2014,Franklin,Saranac River,Harrietstown,April,320.0,Rainbow Trout,8.4
-2018,Madison,Chittenango Creek,Sullivan,April,960.0,Brown Trout,7.9
-2015,Cayuga,Dutch Hollow Brook,Owasco,October,10000.0,Rainbow Trout,2.6
-2011,Wyoming,Cattaraugus Creek,Java,March,600.0,Brown Trout,12.8
-2017,Steuben,Keuka Lake,Urbana,April,7760.0,Brown Trout,9.0
-2019,Essex,Cheney Pond,Minerva,September,2760.0,Brook Trout,4.2
-2014,Sullivan,White Lake,Bethel,May,1600.0,Lake Trout,9.0
-2012,Hamilton,Moose River,"Inlet, Arietta",May,580.0,Brook Trout,8.8
-2015,Orange,Walton Lake,Monroe,April,3420.0,Brown Trout,8.8
-2020,Tioga,East Branch Owego Creek,"Newark Valley, Owego",April,300.0,Brown Trout,13.2
-2018,St Lawrence,Oswegatchie River,Clifton,May,340.0,Brown Trout,13.0
-2017,St Lawrence,Tamarack Pond,Clifton,October,850.0,Brook Trout,4.0
-2016,Delaware,Ouleout Creek,Franklin,May,780.0,Brown Trout,8.9
-2018,Ontario,Canandaigua Lake,Canandaigua (T),March,12100.0,Lake Trout,8.2
-2016,Warren,Schroon River,Tumblehead Falls,April,600.0,Brook Trout,11.0
-2014,Hamilton,Metcalf Lake,Morehouse,September,2000.0,Brook Trout,3.8
-2019,Lewis,Otter Creek,Greig,May,400.0,Brown Trout,7.3
-2014,Essex,Rankin Pond,Minerva,October,500.0,Brook Trout,3.7
-2017,Dutchess,Fishkill Creek,"Beacon, Fishkill",March,1320.0,Brown Trout,8.3
-2012,Jefferson,Payne Lake,Antwerp,June,3500.0,Walleye,1.4
-2015,Greene,Greens Lake,Athens,April,200.0,Brown Trout,12.9
-2020,Hamilton,Indian Lake,"Indian Lake, Lk Pleasant",April,6400.0,Lake Trout,6.7
-2012,Suffolk,Southards Pond,Babylon,November,150.0,Brown Trout,11.6
-2019,Delaware,Big Pond,Andes,September,30.0,Brown Trout,20.9
-2017,Otsego,Wharton Creek,Edmestom,April,150.0,Brown Trout,12.2
-2019,Jefferson,Sandy Creek,Adams,April,1770.0,Brown Trout,7.9
-2014,Hamilton,Bullhead Pond,Indian Lake,May,240.0,Rainbow Trout,7.9
-2019,Essex,Saranac River,St. Armand,May,300.0,Rainbow Trout,16.0
-2015,Albany,Vly Creek,New Scotland,April,260.0,Brown Trout,7.8
-2016,Dutchess,Ten Mile River,Dover,March,330.0,Brown Trout,13.5
-2018,Steuben,Canaseraga Creek,Dansville,April,500.0,Brown Trout,12.6
-2014,Jefferson,Stony Creek,Henderson,April,20700.0,Steelhead,4.6
-2016,Orange,Askoti Lake,Tuxedo,April,690.0,Brown Trout,9.0
-2017,Seneca,Canoga Creek,Fayette,March,250.0,Brook Trout,9.0
-2019,Herkimer,Stillwater Reservoir,Webb,May,1500.0,Splake,8.1
-2015,Allegany,Genesee River,Wellsville,April,640.0,Brown Trout,8.5
-2018,Hamilton,Raquette Lake,Raquette lake,June,2100.0,Brook Trout,8.4
-2016,Clinton,Mud Pond,Black Brook,October,1200.0,Brook Trout,4.0
-2016,Tompkins,Cayuga Lake,Ithaca (T),May,13000.0,Landlocked Salmon,7.4
-2015,St Lawrence,Little River,Fine,June,1540.0,Brown Trout,7.9
-2012,Montgomery,Crum Creek,St Johnsville,April,350.0,Brown Trout,8.0
-2017,Schuyler,Cayuta Creek,Catherine,May,185.0,Brown Trout,13.4
-2013,Essex,Mckenzie Pond,"N. Elba, St. Armand",April,250.0,Landlocked Salmon,6.6
-2014,Delaware,Big Pond,Andes,August,100.0,Brown Trout,16.1
-2013,Hamilton,Mccombs Pond,Wells,September,200.0,Brook Trout,3.7
-2012,Jefferson,Stony Creek,Henderson,March,20700.0,Steelhead,5.0
-2017,Rensselaer,Poesten Kill,Poestenkill,April,450.0,Brown Trout,7.9
-2015,Madison,Sangerfield River,Hamilton,April,190.0,Brown Trout,12.4
-2015,Essex,Goose Pond,Schroon,October,1200.0,Brook Trout,4.3
-2011,Cattaraugus,Lime Lake,Machias,September,500.0,Tiger Muskellunge,10.4
-2011,Essex,Lower Preston Pond,Newcomb,October,500.0,Brook Trout,5.2
-2012,Chenango,Guilford Lake,Guilford,April,200.0,Brown Trout,13.1
-2014,Greene,Basic Creek,Greenville,May,60.0,Brown Trout,13.6
-2012,Rensselaer,Poesten Kill,Poestenkill,April,490.0,Brown Trout,8.2
-2018,Delaware,Delaware River East Branch,Middletown,May,440.0,Brown Trout,9.4
-2018,Warren,Handicap Pond 1,Hatchery,April,40.0,Rainbow Trout,8.86
-2014,Hamilton,Benedict Creek,Inlet,June,300.0,Brook Trout,9.0
-2020,Washington,Mettawee River,Whitehall,April,1800.0,Rainbow Trout,8.9
-2015,Herkimer,Nicks Lake,Webb,May,1710.0,Brown Trout,8.0
-2013,Erie,Sprague Brook Park Veteran's P,Concord,April,100.0,Brown Trout,13.8
-2015,Herkimer,Fourth Lake,Webb,May,5800.0,Lake Trout,6.3
-2017,Columbia,Roeliff Jansen Kill,Clermont,April,6020.0,Brown Trout,8.0
-2013,Saratoga,Upper Corinth Reservoir,Corinth,April,300.0,Brook Trout,9.2
-2020,Saratoga,Great Sacandaga Lake,Day,November,7550.0,Rainbow Trout,6.7
-2018,Hamilton,Poor Lake,Morehouse,September,800.0,Brook Trout,5.0
-2020,Cortland,Otselic River,Cincinnatus,April,560.0,Brown Trout,13.4
-2013,Essex,Black River,Lewis/E'town,May,1000.0,Brook Trout,8.1
-2018,Otsego,Schenevus Creek,Maryland,April,3920.0,Brown Trout,8.0
-2011,Cayuga,Little Sodus Bay,Sterling,May,25520.0,Chinook,3.5
-2020,Cattaraugus,Bay State Brook,Red House,March,400.0,Brown Trout,8.1
-2013,Warren,Jabe Pond,Hague,May,440.0,Brown Trout,7.8
-2014,Seneca,Seneca Lake,Fayette,October,26800.0,Lake Trout,5.8
-2012,Orange,Ramapo River,Tuxedo,March,2000.0,Rainbow Trout,8.9
-2012,Allegany,Black Creek,West Almond,April,1240.0,Brown Trout,8.2
-2017,Essex,West Branch Ausable River,North Elba,April,800.0,Brook Trout,8.0
-2020,Hamilton,Poor Lake,Morehouse,September,390.0,Brook Trout,4.6
-2019,Seneca,Seneca Lake,Lodi,November,11680.0,Brown Trout,6.4
-2019,Oneida,Fish Creek West Branch,"Annsville, Camden",June,150.0,Brown Trout,13.2
-2020,St Lawrence,St Lawrence,Massena,October,514.0,Lake Sturgeon,7.0
-2017,Essex,East Branch Ausable River,Jay & Keene,April,3000.0,Rainbow Trout,8.0
-2019,Steuben,Canaseraga Creek,Dansville,April,350.0,Brown Trout,9.0
-2013,Columbia,Kinderhook Creek,Kinderhook,April,290.0,Brown Trout,7.9
-2020,Essex,Boreas River,North Hudson,April,125.0,Brook Trout,8.0
-2015,Essex,Crab Pond,Schroon,September,500.0,Brook Trout,4.0
-2013,Cortland,East Branch Tioughnioga River,Truxton,May,290.0,Brown Trout,7.9
-2017,Delaware,Little Delaware River,Bovina,April,330.0,Brown Trout,8.9
-2019,Cattaraugus,Ischua Creek,Franklinville,April,710.0,Brown Trout,9.0
-2017,Franklin,Mountain Pond,Brighton,May,4500.0,Brook Trout,2.5
-2020,Hamilton,West Lake,Arietta,September,2270.0,Brook Trout,4.7
-2011,St Lawrence,Horseshoe Lake,Piercefield,September,1300.0,Tiger Muskellunge,9.4
-2019,Lewis,Whetstone Marsh Pond,High Market,September,500.0,Tiger Muskellunge,8.6
-2012,Delaware,Beaver Kill,Colchester,April,530.0,Brown Trout,8.7
-2020,Broome,Dudley Creek,Lisle,March,330.0,Brown Trout,9.1
-2017,Rensselaer,Kinderhook Creek,Stephentown,April,2560.0,Brown Trout,7.9
-2019,Essex,Big Marsh Pond,North Hudson,September,1560.0,Brook Trout,4.2
-2020,Essex,Moose Pond,St. Armand,May,300.0,Rainbow Trout,14.0
-2017,Franklin,Drain Pond,Bellmont,May,150.0,Rainbow Trout,9.2
-2019,Jefferson,Black Creek West Branch,Wilna,April,500.0,Brook Trout,7.8
-2014,Schoharie,Holding Pond,Cobleskill,April,160.0,Rainbow Trout,9.0
-2012,Franklin,Track Pond,Santa Clara,November,127.0,Brook Trout,4.3
-2014,Otsego,Otego Creek,Hartwick,May,520.0,Brown Trout,8.1
-2014,Chenango,Genegantslet Creek,Greene,May,610.0,Brown Trout,8.3
-2016,Greene,Batavia Kill,Ashland,April,3880.0,Brown Trout,9.0
-2014,Ulster,Vernooy Kill,Wawarsing,May,570.0,Brook Trout,8.4
-2014,Montgomery,Canajoharie Creek,Canajoharie,April,1320.0,Brown Trout,7.9
-2015,Sullivan,Callicoon Creek East Branch,Delaware,April,770.0,Brown Trout,8.2
-2014,Cattaraugus,Little Conewango Creek,Conewango,April,200.0,Brown Trout,13.4
-2012,Oneida,Big Creek,Marshall,May,1060.0,Brown Trout,8.0
-2012,Greene,Catskill Creek,Cairo,April,300.0,Brown Trout,13.7
-2014,Broome,East Branch Nanticoke Creek,Maine,March,260.0,Brown Trout,8.7
-2013,Greene,Schoharie Creek,"Jewett, Hunter",May,870.0,Brown Trout,9.0
-2017,Washington,Batten Kill,Greenwich,May,540.0,Brown Trout,8.0
-2016,Orange,Ramapo River,Tuxedo,April,400.0,Brown Trout,13.8
-2014,Franklin,Little Clear Pond,Waverly,September,200.0,Brook Trout,4.2
-2012,Cattaraugus,Little Conewango Creek,Conewango,May,1090.0,Brown Trout,8.9
-2019,St Lawrence,Pleasant Lake,Brasie Corners,May,660000.0,Walleye,0.5
-2015,Otsego,Elk Brook,Maryland,April,510.0,Brown Trout,8.0
-2014,Cayuga,Sterling Valley Creek,Sterling,April,4600.0,Steelhead,4.8
-2018,Fulton,Cayadutta Creek,Johnstown(t),May,260.0,Brown Trout,8.3
-2015,Madison,Payne Brook,Hamilton,April,300.0,Brown Trout,7.8
-2019,Lewis,Mad River,Montague,May,400.0,Brook Trout,7.8
-2020,Clinton,Lake Champlain,Plattsburgh,March,18000.0,Brown Trout,8.0
-2014,Franklin,Little Black Pond,Santa Clara,October,200.0,Brook Trout,3.9
-2014,Essex,Owen Pond,North Elba,May,392.0,Brown Trout,8.2
-2020,Cayuga,Owasco Inlet,Locke,October,9300.0,Rainbow Trout,3.2
-2016,St Lawrence,Long Pond,Colton,October,1200.0,Brook Trout,4.0
-2018,Delaware,Pepacton Reservoir,Colchester,May,4350.0,Brown Trout,9.1
-2020,Madison,Chittenango Creek,Sullivan,April,960.0,Brook Trout,6.9
-2016,Sullivan,Callicoon Ck North Branch,Callicoon,May,130.0,Brown Trout,9.0
-2018,Orange,Ramapo River,Tuxedo,April,1740.0,Rainbow Trout,9.0
-2018,St Lawrence,Glasby Pond,Clifton,September,240.0,Brook Trout,4.5
-2011,Westchester,Titicus River,North Salem,March,100.0,Brown Trout,13.4
-2015,Oneida,Cincinnati Creek,Trenton,May,340.0,Brown Trout,8.0
-2015,Herkimer,Bubb Lake,Webb,September,2000.0,Brook Trout,4.0
-2015,Lewis,Oswegatchie River West Branch,Diana,May,700.0,Brook Trout,9.1
-2020,Franklin,Two Bridge Brook,Franklin,March,100.0,Brown Trout,13.0
-2016,Essex,Ward Pond,Newcomb,May,130.0,Brown Trout,7.3
-2011,Franklin,Chub Pond,Franklin,November,300.0,Brown Trout,5.9
-2014,Sullivan,Willowemoc Creek,Rockland,April,1120.0,Brown Trout,8.7
-2019,Putnam,Croton River East Branch,Patterson,March,1770.0,Brown Trout,8.7
-2012,Warren,Lake Luzerne,Lake Luzerne,May,600.0,Rainbow Trout,8.8
-2015,Franklin,Alder Brook,Franklin,May,350.0,Brook Trout,8.9
-2015,Saratoga,Kayaderosseras Creek,Milton,June,1410.0,Brown Trout,7.9
-2014,Essex,West Branch of the Ausable River,WILMINGTON,July,815.0,Brown Trout,14.0
-2013,Genesee,Oatka Creek,Le Roy,May,250.0,Brown Trout,13.0
-2015,Essex,Fish & Game Club Pond,Westport,May,200.0,Rainbow Trout,13.0
-2017,Saratoga,Moreau Lake,Moreau,May,1500.0,Rainbow Trout,9.2
-2019,Westchester,Stone Hill River,Bedford,April,440.0,Brown Trout,8.7
-2012,Franklin,Grass Pond,Santa Clara,November,633.0,Brook Trout,4.3
-2013,Hamilton,Elbow Creek Reservoir,Wells,May,200.0,Brook Trout,9.3
-2017,Washington,Black Creek,Salem,May,100.0,Brown Trout,13.2
-2015,Wyoming,Little Tonawanda Creek,Middlebury,March,600.0,Brown Trout,8.5
-2016,Warren,Hatchery Handicap Pond 1,Warrensburg,April,20.0,Rainbow Trout,9.0
-2017,Warren,Mill Creek,Johnsburg,April,600.0,Brook Trout,9.8
-2013,Clinton,Salmon River,Plattsburgh & Schuyler Falls,April,3420.0,Brown Trout,8.0
-2016,Franklin,Sumner Brook,Bloomingdale,March,240.0,Brook Trout,8.0
-2017,Sullivan,Fir Brook,Neversink,May,80.0,Brown Trout,8.7
-2013,Oneida,Black River,"Boonville, Forestport",April,650.0,Brown Trout,12.8
-2013,Lewis,Whetstone Marsh Pond,High Market,September,500.0,Tiger Muskellunge,9.6
-2013,Essex,Trout Brook,Ticonderoga,November,500.0,Brook Trout,6.5
-2016,Monroe,Lake Ontario,Webster,May,15500.0,Brown Trout,8.1
-2012,Chautauqua,Chautauqua Lake,"Busti, Ellicott, Ellery",October,5240.0,Muskellunge,8.4
-2019,Franklin,Ochre Pond,Santa Clara,September,720.0,Brook Trout,4.0
-2013,Cortland,Otselic River,Cincinnatus,March,2240.0,Brown Trout,8.3
-2014,Saratoga,Geyser Brook,Saratoga Springs,April,440.0,Brown Trout,8.0
-2017,Dutchess,Roeliff Jansen Kill,Milan,April,1070.0,Brown Trout,8.8
-2011,Cayuga,Lake Ontario,Sterling,May,30480.0,Brown Trout,7.5
-2019,Orange,Ramapo River,Tuxedo,March,1860.0,Brown Trout,8.7
-2019,Oneida,Black River,"Boonville, Forestport",November,2500.0,Rainbow Trout,7.1
-2012,Delaware,Little Pond,Andes,April,200.0,Brown Trout,13.0
-2020,Westchester,Amawalk Inlet,Somers,March,480.0,Brown Trout,8.8
-2013,Wyoming,Buffalo Creek,Java,May,730.0,Brown Trout,8.9
-2014,Broome,Chenango Lake,Fenton,March,4030.0,Rainbow Trout,9.3
-2018,Delaware,Delaware River East Branch,Roxbury,April,50.0,Brown Trout,13.0
-2014,Madison,Payne Brook,Hamilton,April,480.0,Brown Trout,7.9
-2012,Sullivan,Mongaup River West Branch,Bethel,April,30.0,Brown Trout,13.5
-2016,Essex,Lost Pond,Ticonderoga,May,430.0,Brown Trout,8.0
-2015,Allegany,Little Genesee Creek,Bolivar,March,200.0,Brown Trout,12.9
-2015,Warren,Stony Creek,Stony Creek,May,2190.0,Brook Trout,9.1
-2014,Clinton,North Branch Great Chazy River,"Altona, E'burg, Moores",April,1940.0,Brown Trout,8.1
-2018,Fulton,Wolford's Pond,Johnstown,May,170.0,Brown Trout,8.3
-2016,Otsego,Otsdawa Creek,Otego,April,390.0,Brown Trout,7.9
-2015,Essex,Latham Pond,Newcomb,September,700.0,Brook Trout,4.0
-2015,Ulster,Rondout Creek,Wawarsing,April,1650.0,Rainbow Trout,9.0
-2014,Rensselaer,Walloomsac River,Hoosick,May,230.0,Brown Trout,13.9
-2012,Franklin,Green Pond,Santa Clara,April,530.0,Brown Trout,8.2
-2018,Westchester,Mianus River,Bedford,March,700.0,Brown Trout,9.1
-2019,Hamilton,Canary Pond,Benson,September,250.0,Brook Trout,4.2
-2018,Essex,Fifth Lake Essex Chain,Minerva,May,960.0,Rainbow Trout,8.3
-2011,Warren,Botheration Pond,Johnsburg,May,250.0,Brown Trout,8.3
-2013,Ontario,Canandaigua Outlet,Phelps / Manchester,March,5450.0,Brown Trout,8.2
-2016,Wyoming,Tonawanda Creek,Orangeville,March,200.0,Brown Trout,13.6
-2011,Herkimer,Moose River,Webb,May,1870.0,Brook Trout,9.5
-2015,Onondaga,Otisco Lake,Otisco,June,44000.0,Walleye,1.4
-2015,Essex,Lower Cascade Lake,Keene,April,600.0,Brook Trout,7.0
-2014,Cattaraugus,Lime Lake,Machias,September,800.0,Tiger Muskellunge,8.5
-2013,Nassau,Oyster Bay Mill Pond,Oyster Bay,October,400.0,Brown Trout,11.1
-2017,Essex,Boquet River,Essex,September,100.0,Brown Trout,19.0
-2012,Madison,Chittenango Creek,Sullivan,May,100.0,Brown Trout,13.3
-2013,Franklin,Polliwog Pond,Santa Clara,April,1530.0,Brown Trout,8.1
-2016,Suffolk,Upper Lake,Brookhaven,April,400.0,Rainbow Trout,9.1
-2018,Essex,Mill Brook,Moriah,April,1650.0,Brown Trout,8.4
-2011,Herkimer,Big Moose Lake,Webb,September,4000.0,Brook Trout,4.5
-2013,Warren,Island Pond,Horicon,September,400.0,Brook Trout,3.4
-2012,Greene,Kaaterskill,Catskill,May,100.0,Brown Trout,13.0
-2014,Hamilton,Indian Lake,"Indian Lake, Lk Pleasant",April,6760.0,Brown Trout,8.1
-2017,Suffolk,Laurel Lake,Southold,April,300.0,Rainbow Trout,9.1
-2011,Westchester,Cross River Reservoir,Bedford,March,6330.0,Brown Trout,8.8
-2019,Suffolk,Deep Pond,Riverhead,October,400.0,Brown Trout,12.1
-2013,Essex,Westport Reservoir,Westport,February,600.0,Brook Trout,8.0
-2013,Dutchess,Iron Mine Pond,Northeast,April,200.0,Rainbow Trout,9.0
-2014,Tioga,Cayuta Creek,Barton,April,1930.0,Brown Trout,9.2
-2018,Clinton,round pond,Altona,April,150.0,Brook Trout,8.1
-2015,Hamilton,Sampson Lake,Arietta,September,2500.0,Brook Trout,4.4
-2017,Hamilton,Lake Eaton,Long Lake,November,25.0,Landlocked Salmon,20.0
-2014,Jefferson,Red Lake,Theresa,May,1056000.0,Walleye,0.4
-2017,Columbia,Kinderhook Creek,Kinderhook,April,330.0,Brown Trout,7.9
-2017,Herkimer,Witchhopple Lake,webb,May,300.0,Landlocked Salmon,7.0
-2014,Hamilton,Pine Mountain Pond,Indian Lake,September,600.0,Brook Trout,3.2
-2015,Sullivan,Callicoon Creek East Branch,Delaware,April,1280.0,Brown Trout,8.2
-2020,Essex,Trout Pond,Moriah,September,320.0,Brook Trout,3.9
-2019,Albany,Six Mile Waterworks,City of Albany,April,1000.0,Rainbow Trout,9.5
-2013,St Lawrence,Ozonia Lake,Hopkinton,April,3000.0,Splake,7.4
-2018,Putnam,Stillwater Pond,Kent,April,870.0,Brown Trout,9.0
-2012,Lewis,South Creek,Diana,May,270.0,Brown Trout,9.6
-2012,Otsego,Otsdawa Creek,Otego,April,400.0,Brown Trout,8.1
-2016,Allegany,California Hw Brook,Bolivar,May,260.0,Brown Trout,9.4
-2014,Franklin,Tupper Lake,Altamont,May,3000.0,Landlocked Salmon,6.9
-2017,Jefferson,Lake Ontario,Henderson,May,31350.0,Brown Trout,7.1
-2015,Hamilton,Buckhorn Pond,Wells,September,600.0,Brook Trout,4.3
-2019,Herkimer,Gibbs Lake,Webb,October,360.0,Brook Trout,3.8
-2012,Herkimer,Fulmer Creek,German Flats,April,350.0,Rainbow Trout,8.6
-2014,Essex,Glidden Marsh,Schroon,September,130.0,Brown Trout,5.5
-2015,Allegany,Little Genesee Creek,Bolivar,March,1920.0,Brook Trout,8.5
-2020,Ulster,Stony Kill,Rochester,May,320.0,Brook Trout,8.2
-2012,Saratoga,Great Sacandaga Lake,Day,March,6000.0,Rainbow Trout,8.0
-2018,Albany,Six Mile Waterworks,City of Albany,May,870.0,Rainbow Trout,9.2
-2020,Tioga,East Branch Owego Creek,"Berkshire, Richford",April,1770.0,Brown Trout,9.1
-2019,Erie,Cayuga Creek,Lancaster,April,350.0,Rainbow Trout,8.9
-2013,Tompkins,Sixmile Creek,Caroline,March,1160.0,Brown Trout,8.8
-2013,Steuben,Cohocton River,Cohocton,April,1470.0,Brown Trout,9.1
-2020,Hamilton,Grassy Pond,Indian Lake,September,260.0,Brook Trout,4.6
-2014,Erie,Cazenovia Creek-East Branch,Aurora,April,90.0,Brown Trout,8.7
-2017,Oswego,North Branch Salmon River,Redfield,April,2000.0,Brook Trout,9.0
-2019,Cattaraugus,Ischua Creek,Franklinville,April,530.0,Brown Trout,8.8
-2011,Broome,Nanticoke Lake,Lisle,April,2300.0,Rainbow Trout,9.2
-2012,Hamilton,Cascade Pond,Indian Lake,October,1000.0,Brook Trout,4.1
-2019,Dutchess,Sprout Creek,La Grange,April,130.0,Brown Trout,9.1
-2017,Wyoming,Cattaraugus Creek,Java,March,1980.0,Brown Trout,9.0
-2016,Suffolk,Carlls River,Babylon,October,100.0,Brown Trout,12.0
-2019,Warren,Schroon River,Tumblehead Falls,May,600.0,Rainbow Trout,9.0
-2020,Otsego,Basswood Pond,Burlington,April,300.0,Rainbow Trout,9.9
-2018,Madison,Oneida Creek,Smithfield,May,350.0,Brown Trout,8.3
-2016,Cortland,East Branch Tioughnioga River,Truxton,May,300.0,Brown Trout,13.0
-2013,Cayuga,Owasco Inlet,Locke,April,2250.0,Brown Trout,9.0
-2020,Herkimer,Hidden Lake,Webb,October,600.0,Brook Trout,4.0
-2016,Essex,Courtney Pond,North Hudson,April,150.0,Rainbow Trout,13.0
-2011,Hamilton,Eighth Lake,Inlet,May,500.0,Landlocked Salmon,6.0
-2015,Cattaraugus,Ischua Creek,Franklinville,April,550.0,Brown Trout,13.5
-2014,Essex,Third Lake Essex Chain,Minerva,May,300.0,Landlocked Salmon,6.7
-2019,Essex,Henderson Lake,Newcomb,September,5640.0,Brook Trout,4.0
-2018,Putnam,Stillwater Pond,Kent,April,870.0,Rainbow Trout,9.0
-2013,Hamilton,Lake Eaton,Long Lake,April,1810.0,Lake Trout,7.2
-2018,Montgomery,Otsquago Creek,Minden,April,260.0,Brown Trout,7.9
-2017,Ulster,Esopus Creek,Shandaken,April,2060.0,Brown Trout,8.8
-2020,Broome,Nanticoke Creek,Union,March,1280.0,Rainbow Trout,9.0
-2020,Hamilton,Pine Pond,Indian Lake,September,160.0,Brook Trout,4.6
-2019,Saratoga,Geyser Brook,Saratoga Springs,April,970.0,Brown Trout,7.9
-2020,Oswego,Salmon River,Redfield,April,530.0,Rainbow Trout,8.8
-2014,Essex,Big Cherry Patch Pond,North Elba,October,1000.0,Brook Trout,4.0
-2019,Warren,Schroon River,Starbuckville,May,600.0,Rainbow Trout,9.0
-2019,Ontario,Camp Cutler Pond,South Bristol,April,100.0,Rainbow Trout,9.0
-2015,Essex,Spruce Mill Brook,Lewis,May,860.0,Brown Trout,8.1
-2016,Hamilton,Raquette River,"Long Lake, Arietta",May,350.0,Brown Trout,13.0
-2014,Franklin,Little Long Pond (East),Santa Clara,May,350.0,Splake,8.4
-2012,Dutchess,Ten Mile River,Amenia,March,1240.0,Brown Trout,8.5
-2020,Warren,West Brook,Lake George,July,3080.0,Rainbow Trout,1.9
-2014,Herkimer,Sunday Creek,Webb,June,850.0,Brook Trout,9.0
-2018,Sullivan,Willowemoc Creek,Rockland,April,1570.0,Brown Trout,9.1
-2014,Essex,East Branch Ausable River,KEENE,May,200.0,Rainbow Trout,17.0
-2012,Warren,Palmer Pond,Chester,May,200.0,Brook Trout,9.64
-2016,Essex,Willsboro Club Pond 2,Willsboro,April,100.0,Rainbow Trout,8.7
-2011,Allegany,Allen Lake,Allen,April,360.0,Brown Trout,13.1
-2018,Franklin,Sumner Brook,Bloomingdale,April,300.0,Brook Trout,8.0
-2018,Oswego,Lake Ontario,Richland,May,31320.0,Brown Trout,7.5
-2019,Delaware,Launt Pond,Tompkins,May,700.0,Brook Trout,7.4
-2020,Sullivan,Beaver Kill,Rockland,November,10250.0,Brown Trout,6.1
-2012,Rockland,Minisceongo Creek North Branch,Haverstraw,April,90.0,Brown Trout,8.6
-2011,Clinton,Saranac River,Black Brook,April,2700.0,Rainbow Trout,9.4
-2020,Warren,Glen Lake,Queensbury,April,2280.0,Brown Trout,7.3
-2018,Dutchess,Crum Elbow Creek,Hyde Park,March,260.0,Brown Trout,9.1
-2013,Essex,Roes Pond,Moriah,May,500.0,Rainbow Trout,13.0
-2019,Lewis,Bonaparte Lake,Diana,May,1800.0,Lake Trout,6.3
-2017,Fulton,Upper Conglin Lake,Stratford,October,300.0,Brook Trout,5.0
-2016,Delaware,Beaver Kill,Colchester,May,1810.0,Brown Trout,8.9
-2017,Dutchess,Webatuck Creek,Northeast,March,1820.0,Brown Trout,8.9
-2019,Niagara,Eighteenmile Creek,Newfane,April,10000.0,Steelhead,5.8
-2020,Hamilton,Cascade Pond,Indian Lake,September,1490.0,Brook Trout,4.6
-2016,Greene,Schoharie Creek,"Jewett, Hunter",May,1030.0,Brown Trout,8.9
-2020,Erie,Eighteenmile Creek,Evans,March,3750.0,Rainbow Trout,8.0
-2019,Orange,Moodna Creek,Cornwall,March,100.0,Brown Trout,13.2
-2014,Chautauqua,Mill Creek,Gerry,April,100.0,Brown Trout,13.6
-2017,Suffolk,Upper Lake,Brookhaven,May,250.0,Brown Trout,9.4
-2019,Jefferson,Payne Lake,Antwerp,May,462000.0,Walleye,0.5
-2020,Madison,Old Chenango Canal,Madison,April,960.0,Brown Trout,9.0
-2015,Warren,West Brook,Lake George,April,500.0,Brook Trout,10.7
-2017,Orleans,Lake Ontario,Carlton,May,20000.0,Landlocked Salmon,0.5
-2011,Livingston,Sugar Creek,Ossian,September,700.0,Brown Trout,5.6
-2011,Washington,Black Creek,Salem,April,640.0,Brown Trout,8.2
-2019,Jefferson,Sixberry Lake,Theresa,April,610.0,Lake Trout,6.6
-2017,Washington,Upper Black Mountain Pond,Dresden,September,100.0,Brook Trout,5.0
-2018,Essex,Rock Pond,Ticonderoga,September,2250.0,Brook Trout,4.6
-2020,Lewis,Fish Creek East Branch,Lewis,April,1300.0,Brook Trout,7.9
-2017,Ulster,Beer Kill,Wawarsing,May,370.0,Brown Trout,8.6
-2018,Franklin,Lake Colby,Harrietstown,May,2960.0,Rainbow Trout,8.0
-2013,Washington,Poultney River,Hampton,April,500.0,Rainbow Trout,8.4
-2020,Niagara,Lake Ontario,Wilson,April,21550.0,Brown Trout,7.6
-2018,Cayuga,Owasco Inlet,Locke,November,15000.0,Rainbow Trout,3.8
-2012,Clinton,Saranac River,Saranac,April,2390.0,Brown Trout,8.1
-2013,Oneida,West Canada Creek,"Trenton, Deerfield",May,2980.0,Brown Trout,8.1
-2012,Cortland,Padget Pond,Preble,October,1200.0,Rainbow Trout,6.7
-2018,Cayuga,Sterling Creek,Sterling,May,15930.0,Chinook,3.3
-2019,Ulster,Rondout Creek,Wawarsing,April,390.0,Brown Trout,13.3
-2011,Franklin,Tupper Lake,Altamont,May,4730.0,Lake Trout,6.1
-2016,Tompkins,Cayuga Lake,Ithaca (T),May,6500.0,Landlocked Salmon,7.1
-2018,Hamilton,High Rock Pond,Inlet,September,240.0,Brook Trout,5.0
-2019,Hamilton,South Lake,Arietta,September,1000.0,Brook Trout,4.2
-2014,Saratoga,Kayaderosseras Creek,Milton,April,400.0,Brown Trout,13.3
-2011,Fulton,Stewart Lake,Caroga,October,800.0,Brook Trout,4.8
-2011,Tioga,Cayuta Creek,Barton,April,410.0,Brown Trout,13.2
-2017,Monroe,Irondequoit Creek,Pittsford,April,660.0,Brown Trout,8.8
-2014,Franklin,Salmon River,Malone,May,5450.0,Brown Trout,8.6
-2017,Lewis,Quarry Pond,Diana,May,200.0,Rainbow Trout,9.0
-2012,Madison,Sangerfield River,Hamilton,April,230.0,Brown Trout,12.4
-2013,Essex,Roes Pond,Moriah,May,300.0,Brown Trout,13.0
-2013,Allegany,Dodge Creek,Clarksville,March,200.0,Brown Trout,13.3
-2011,Essex,Roes Pond (Special Kids Fishing Area),Moriah,May,200.0,Rainbow Trout,19.0
-2011,Clinton,Park Brook,"Altona, Moores",November,500.0,Brown Trout,5.9
-2017,Fulton,"Mayfield Creek, T1",Mayfield,April,250.0,Brown Trout,8.0
-2015,Ulster,Vernooy Kill,Wawarsing,May,520.0,Brook Trout,8.0
-2011,Cortland,East Branch Tioughnioga River,Truxton,June,333.0,Brown Trout,13.5
-2019,Greene,Catskill Creek,Cairo,April,300.0,Brown Trout,13.3
-2013,Essex,North Branch Boquet River,Lewis,April,1380.0,Brown Trout,7.9
-2015,St Lawrence,Trout Brook,Stockholm,April,1450.0,Brown Trout,8.0
-2015,Suffolk,Carmans River,Brookhaven,April,150.0,Rainbow Trout,9.0
-2016,Warren,North Creek,Johnsburg,April,708.0,Rainbow Trout,9.0
-2019,Putnam,Stillwater Pond,Kent,April,890.0,Brown Trout,8.8
-2016,Essex,East Branch Ausable River,Keene,April,200.0,Rainbow Trout,13.0
-2014,Oswego,Salmon River,Redfield,April,450.0,Brook Trout,9.5
-2015,Herkimer,Hidden Lake,Webb,September,600.0,Brook Trout,4.0
-2012,Hamilton,Blue Mountain Lake,Indian Lake,May,3558.0,Brook Trout,2.7
-2020,Franklin,Palmer Pond,Harrietstown,May,500.0,Brook Trout,2.5
-2014,Steuben,Cohocton River,Cohocton,April,520.0,Brown Trout,9.4
-2013,Niagara,Lower Niagara River,Lewiston,June,128500.0,Chinook,3.0
-2011,Allegany,Black Creek,West Almond,April,1190.0,Brown Trout,8.2
-2017,Orange,Island Pond,Tuxedo,April,1300.0,Brook Trout,9.0
+Year,Waterbody,Month,Number,Species,Size
+2020,Balsam Lake,September,1040.0,Brook Trout,4.7
+2013,Mongaup River West Branch,April,30.0,Brown Trout,13.1
+2018,Cattaraugus Creek,May,600.0,Brown Trout,13.7
+2018,East Branch Ausable River,May,800.0,Rainbow Trout,13.0
+2018,East Branch Ausable River,May,2400.0,Brook Trout,8.0
+2011,Chenango River,May,640.0,Brown Trout,9.4
+2017,Basswood Pond,May,200.0,Rainbow Trout,9.3
+2018,Westport Reservoir 2,April,100.0,Brook Trout,8.1
+2015,Beaver Creek,April,100.0,Brown Trout,12.4
+2017,Dodge Creek,May,1240.0,Brown Trout,9.2
+2013,Point Rock Creek,April,1090.0,Brown Trout,8.0
+2015,Genesee River,April,8580.0,Steelhead,5.1
+2018,Lake Gleneida,April,3480.0,Brown Trout,9.0
+2015,Upper Lelands Pond,April,1450.0,Brown Trout,8.0
+2014,Connery Pond,May,390.0,Splake,8.4
+2015,Amawalk Outlet,March,1670.0,Brown Trout,8.3
+2015,Lake Gilead,April,1000.0,Rainbow Trout,9.0
+2020,West Brook,April,300.0,Brook Trout,6.7
+2012,Rondout Creek,May,1440.0,Brook Trout,8.6
+2015,Courtney Pond,May,200.0,Rainbow Trout,13.0
+2013,Holmes Lake,September,500.0,Brook Trout,4.1
+2017,Ausable River,April,325.0,Rainbow Trout,16.0
+2016,Ramapo River,May,300.0,Brown Trout,9.0
+2018,Mallet Pond,May,200.0,Rainbow Trout,8.9
+2011,Croton River,March,900.0,Rainbow Trout,8.1
+2017,Spruce Mill Brook,May,300.0,Brook Trout,8.6
+2020,Belmont Lake,March,100.0,Brown Trout,13.0
+2019,Otsquago Creek,October,400.0,Rainbow Trout,6.0
+2018,Upper Twin Pond,March,130.0,Rainbow Trout,8.9
+2019,Hards Lake,May,100.0,Brown Trout,13.4
+2013,Willsboro Club Pond 2,April,100.0,Rainbow Trout,8.8
+2012,Long Pond,May,180.0,Brown Trout,7.8
+2015,West Branch Tioughnioga River,April,3080.0,Brown Trout,7.9
+2014,Oxshoe Pond,September,350.0,Brook Trout,3.4
+2020,Patterson Pond (#1),April,600.0,Rainbow Trout,9.1
+2011,Fish Creek East Branch,April,760.0,Brown Trout,8.3
+2014,Oatka Creek,May,150.0,Brown Trout,13.4
+2011,Little Otter Lake,September,1200.0,Brook Trout,4.5
+2020,Oyster Bay Mill Pond,March,100.0,Brown Trout,13.0
+2012,Boottree Pond,November,825.0,Brook Trout,3.6
+2014,Rice Brook,April,260.0,Brown Trout,9.2
+2015,Harwood Lake,April,350.0,Brown Trout,12.6
+2014,Middle Metcalf Chain Lake,September,400.0,Brook Trout,3.7
+2015,Cayuga Creek,April,650.0,Rainbow Trout,8.7
+2011,Little Clear Pond,November,100.0,Brook Trout,4.2
+2017,North Branch Great Chazy River,May,2550.0,Rainbow Trout,8.5
+2011,Long Lake,October,1000.0,Brook Trout,5.5
+2014,Verkeeder Kill,April,690.0,Brown Trout,8.6
+2012,Dodge Creek,March,200.0,Brown Trout,13.6
+2012,Hatch Pond,November,200.0,Brook Trout,4.8
+2016,Lake Clear,April,1720.0,Brown Trout,8.2
+2013,Ray Brook,May,300.0,Brook Trout,8.0
+2019,Canadice Lake,April,4430.0,Brown Trout,8.9
+2012,Callicoon Creek,May,180.0,Brown Trout,8.9
+2015,Spruce Lake,September,3900.0,Brook Trout,4.4
+2020,Nanticoke 7a,April,450.0,Rainbow Trout,9.1
+2018,Butternut Creek,May,600.0,Brown Trout,12.1
+2011,Newtown Creek,March,50.0,Brown Trout,12.8
+2016,Trout Brook 2,April,600.0,Brook Trout,10.0
+2018,Sconondoa Creek,April,1000.0,Brown Trout,7.9
+2019,East Lake,April,270.0,Brown Trout,8.8
+2015,Peru F & G Club Pond,April,90.0,Brook Trout,8.2
+2014,Trout Brook,April,1460.0,Brown Trout,8.4
+2013,Otsdawa Creek,April,330.0,Brown Trout,7.9
+2020,Lake Placid,May,2970.0,Rainbow Trout,8.5
+2017,Nine Mile,May,50.0,Rainbow Trout,15.0
+2014,Mettawee River,April,3870.0,Brown Trout,8.1
+2016,Geddes Brook,May,300.0,Rainbow Trout,9.0
+2014,"Dodge Creek, T17",March,350.0,Brook Trout,8.7
+2019,Spoon Lake,October,130.0,Brook Trout,3.8
+2015,Lower Cascade Lake,April,600.0,Brook Trout,7.0
+2020,Little Pond,March,200.0,Brown Trout,12.8
+2014,Crab Pond,September,400.0,Brown Trout,5.5
+2020,Old Chenango Canal,April,960.0,Brown Trout,9.0
+2013,Spruce Lake,September,2000.0,Brook Trout,3.7
+2013,Meads Creek,March,310.0,Brown Trout,13.7
+2017,Nine Mile,April,450.0,Brook Trout,8.4
+2014,Saranac River,April,200.0,Brown Trout,13.0
+2018,California Hw Brook,May,260.0,Brown Trout,8.9
+2011,Federation Pond,October,200.0,Brook Trout,4.8
+2019,Trout Brook,March,500.0,Brown Trout,6.0
+2017,Upper Lake,October,550.0,Brown Trout,12.2
+2019,Mallet Pond,April,230.0,Rainbow Trout,8.9
+2020,Canada Lake,April,1580.0,Rainbow Trout,8.6
+2019,Kaaterskill,April,1330.0,Brown Trout,8.7
+2015,Little York Lake,April,860.0,Brown Trout,7.9
+2014,Rainbow Lake,June,7400.0,Walleye,1.4
+2014,Perry Park Pond,April,100.0,Brook Trout,9.2
+2014,Roe's Pond,May,180.0,Brown Trout,8.9
+2016,Mongaup River Middle Branch,April,130.0,Brown Trout,13.7
+2014,Bridgebrook Pond,October,2000.0,Brook Trout,4.1
+2015,Cattaraugus Creek S Br,March,1030.0,Brown Trout,8.5
+2013,Wakely Pond,May,150.0,Brown Trout,7.8
+2018,Great Valley Creek,March,390.0,Brown Trout,8.7
+2011,Lake Ontario,November,2500.0,Rainbow Trout,6.6
+2020,Durkee Park Pond,April,380.0,Rainbow Trout,8.1
+2013,Hemlock Lake,April,3200.0,Lake Trout,8.3
+2015,Big Creek,April,1540.0,Brown Trout,7.8
+2020,Deadwater Pond,April,400.0,Brown Trout,7.0
+2016,Mettawee River,April,3790.0,Brown Trout,8.1
+2012,Southards Pond,March,400.0,Rainbow Trout,8.9
+2019,Palmer Pond 2 AS,May,500.0,Rainbow Trout,9.5
+2014,Basswood Pond,April,130.0,Brown Trout,13.3
+2012,Croton River East Branch,March,1770.0,Brown Trout,8.4
+2018,Cage Lake,October,800.0,Brook Trout,4.6
+2015,Hessian Lake,April,680.0,Brown Trout,8.3
+2020,Oaks Creek,April,100.0,Brown Trout,13.7
+2018,Lake Eaton,May,2700.0,Rainbow Trout,9.0
+2012,Red House Brook,March,800.0,Brown Trout,8.0
+2012,Hudson River,April,400.0,Rainbow Trout,18.0
+2017,Virgil Creek,April,200.0,Brown Trout,13.8
+2019,West Canada Creek,May,3010.0,Brown Trout,7.7
+2018,Lake Eaton,May,900.0,Landlocked Salmon,7.1
+2012,Ninemile Creek,March,5320.0,Brown Trout,8.5
+2013,Lilypad Pond,October,300.0,Brook Trout,4.1
+2018,Marsh Creek,April,7100.0,Steelhead,4.7
+2011,Mill Pond Brook (Amenia Bk),April,170.0,Brown Trout,8.4
+2015,West Lake,October,650.0,Brown Trout,11.8
+2011,Schroon Lake,April,3850.0,Lake Trout,6.2
+2012,Dansville Rs,April,600.0,Rainbow Trout,9.4
+2013,Butternut,April,806.0,Brown Trout,7.5
+2013,Black River,April,900.0,Brook Trout,8.0
+2019,Drain Pond,May,150.0,Rainbow Trout,8.9
+2020,Sprague Brook Park Veteran's P,April,150.0,Rainbow Trout,8.1
+2018,Newtown Creek,March,870.0,Brown Trout,8.4
+2013,Yellow Lake,September,1800.0,Tiger Muskellunge,9.6
+2011,Croton River East Branch,November,2500.0,Rainbow Trout,6.3
+2016,Bickford Pond,October,500.0,Brook Trout,5.5
+2012,Catatonk Creek,April,1420.0,Brown Trout,8.6
+2017,Trout Lake,October,1250.0,Brook Trout,5.0
+2011,Red House Brook,March,760.0,Brown Trout,8.2
+2012,Onondaga Creek,April,300.0,Brown Trout,13.0
+2013,Quaker Lake,October,50.0,Brown Trout,25.5
+2017,Croton River,April,100.0,Brown Trout,13.2
+2013,Big Sherman Pond,September,400.0,Brook Trout,3.7
+2018,Keuka Lake Outlet,April,610.0,Brown Trout,9.0
+2011,Lake Gilead,April,1000.0,Rainbow Trout,8.3
+2011,Beaver Brook,April,470.0,Brown Trout,8.4
+2013,Little Chazy River,April,400.0,Brown Trout,8.3
+2020,Chubb River,May,125.0,Brook Trout,9.0
+2018,Buttermilk Creek,March,440.0,Brown Trout,8.7
+2019,Loon Pond,September,1320.0,Brook Trout,4.0
+2017,Bubb Lake,October,1000.0,Brook Trout,4.0
+2015,White Lake,May,1600.0,Lake Trout,8.8
+2012,Queer Lake,October,800.0,Brook Trout,4.1
+2012,Steele Creek,April,900.0,Rainbow Trout,8.6
+2016,Stillwater Pond,April,1000.0,Rainbow Trout,9.0
+2013,Canajoharie Creek,April,1090.0,Brown Trout,7.9
+2020,Green Pond,October,800.0,Brook Trout,4.5
+2017,Baily Pond,October,400.0,Brook Trout,4.3
+2015,Up Yonda Farm,May,10.0,Rainbow Trout,9.2
+2017,Millsite Lake,April,500.0,Landlocked Salmon,7.2
+2012,Jacobs Creek,April,820.0,Brook Trout,9.0
+2015,Sunday Pond,September,300.0,Brook Trout,4.0
+2016,Laurel Lake,April,260.0,Brown Trout,8.9
+2015,Ringwood River,May,300.0,Brown Trout,8.8
+2011,Stony Creek,April,2540.0,Brown Trout,7.5
+2017,Big Creek,May,990.0,Brown Trout,8.0
+2019,Owego Creek,April,490.0,Brown Trout,13.5
+2018,Little Pond,April,170.0,Rainbow Trout,8.9
+2014,Gay Pond,September,200.0,Brook Trout,3.7
+2018,Dudley Creek,March,390.0,Brown Trout,8.7
+2019,Sucker Lake,April,440.0,Brown Trout,8.0
+2012,Massapequa Creek,March,400.0,Rainbow Trout,8.9
+2011,Mahwah River,April,170.0,Brown Trout,8.5
+2018,Bochen Lake,September,440.0,Brook Trout,5.0
+2018,Boottree Pond,September,600.0,Brook Trout,4.8
+2014,Trout Brook,April,500.0,Brook Trout,7.0
+2013,Paradox Lake,May,1120.0,Lake Trout,7.2
+2013,Minisceongo Creek North Branch,April,70.0,Brown Trout,8.7
+2020,Chittenango Creek,April,2870.0,Brook Trout,7.5
+2013,Franklinville Retention Pond,April,400.0,Brook Trout,8.9
+2012,Skaneateles Creek,April,500.0,Rainbow Trout,9.0
+2011,Casterline Pond,April,450.0,Rainbow Trout,7.9
+2017,West Lake,March,300.0,Brown Trout,12.8
+2012,Boy Scout Clear Pond,April,320.0,Splake,7.9
+2011,Muscoot Reservoir,April,840.0,Brown Trout,8.8
+2017,Ellicott Creek,April,1250.0,Rainbow Trout,9.2
+2011,Big Sherman Pond,October,300.0,Brook Trout,5.2
+2013,Lake Eaton,April,3100.0,Rainbow Trout,9.1
+2013,Black Pond,September,300.0,Brook Trout,3.4
+2019,N up Pine Pond,September,240.0,Brook Trout,4.0
+2017,Potomac Pond,May,560.0,Brook Trout,8.8
+2018,Gay Pond,September,160.0,Brook Trout,4.3
+2013,West Caroga Lake,May,5200.0,Splake,7.7
+2014,Woodland Valley Stream,April,220.0,Brown Trout,8.5
+2017,Round Pond,May,300.0,Rainbow Trout,8.5
+2017,Owl Pond,September,300.0,Brook Trout,5.0
+2011,Indian Lake,October,2350.0,Brook Trout,3.7
+2012,Little Buffalo Ck,March,710.0,Brown Trout,8.0
+2011,Third Lake,April,1800.0,Rainbow Trout,8.8
+2019,Limestone Creek,March,700.0,Brown Trout,12.1
+2016,Carlls River,October,100.0,Brown Trout,12.0
+2011,Oyster Bay Mill Pond,March,100.0,Brown Trout,13.3
+2015,Clamshell Pond,October,1566.0,Brook Trout,6.0
+2014,West Branch Fish Creek,April,1410.0,Brown Trout,8.1
+2015,West Branch Ausable River,May,800.0,Brown Trout,13.0
+2016,Cayuga Lake,May,6500.0,Landlocked Salmon,7.1
+2019,Batten Kill,April,700.0,Brown Trout,12.4
+2011,Green Pond,May,510.0,Brown Trout,8.3
+2020,Red House Lake,October,150.0,Brown Trout,18.4
+2020,Black River,March,525.0,Brook Trout,8.0
+2011,Esopus Creek,April,1950.0,Brown Trout,14.5
+2020,Little Long Pond (East),May,750.0,Rainbow Trout,9.0
+2014,Big Cherry Patch Pond,October,1000.0,Brook Trout,4.0
+2016,Minisceongo Creek,March,520.0,Brown Trout,8.9
+2015,Lawrence Brook,May,210.0,Brown Trout,8.1
+2014,Genesse River,October,1000.0,Lake Sturgeon,5.5
+2016,Six Mile Waterworks,April,1400.0,Rainbow Trout,9.0
+2020,East Branch Tioughnioga River,April,290.0,Brown Trout,8.1
+2013,Weed Mines Pond,April,200.0,Rainbow Trout,8.0
+2011,Duck Lake,September,700.0,Tiger Muskellunge,10.7
+2020,Massapequa Reservoir,May,370.0,Brown Trout,9.1
+2016,Spruce Mill Brook,April,600.0,Brook Trout,8.0
+2016,Gilbert Lake,April,100.0,Brown Trout,12.0
+2019,Mongaup Creek,May,220.0,Brown Trout,9.1
+2018,Mettawee River,May,700.0,Brown Trout,13.2
+2012,Southards Pond,October,200.0,Brown Trout,11.9
+2017,Mill Pond Brook (Amenia Bk),April,170.0,Brown Trout,8.9
+2020,Two Bridge Brook,April,330.0,Brown Trout,8.5
+2018,Chapel Pond,May,200.0,Rainbow Trout,13.0
+2017,Clear Pond (P358 - Champlain),May,500.0,Round Whitefish,0.1
+2014,Grassy Pond,September,400.0,Brook Trout,3.2
+2016,Conley Line Pond,October,80.0,Brook Trout,5.5
+2011,Snook Kill,April,2200.0,Brown Trout,8.1
+2011,Rondout Creek,May,1400.0,Brook Trout,8.8
+2013,Sullivan town park,April,8.0,Rainbow Trout,20.0
+2015,Ramapo River,May,400.0,Brown Trout,12.8
+2020,Phelps Brook,March,125.0,Brook Trout,8.0
+2017,Owego Creek,May,830.0,Brown Trout,9.2
+2019,Chestnut Creek,April,70.0,Brown Trout,13.4
+2014,Moose Mountain Pond,September,1900.0,Brook Trout,3.8
+2016,Lake of the Woods,April,500.0,Landlocked Salmon,7.3
+2013,Roeliff Jansen Kill,March,950.0,Brown Trout,8.6
+2014,Military Pond,May,559.0,Brown Trout,8.2
+2019,Little Beaverkill,April,1680.0,Brown Trout,8.8
+2020,Blue Pond,September,195.0,Brook Trout,4.5
+2011,Connetquot River,October,450.0,Brown Trout,11.3
+2017,Rondout Creek,April,1400.0,Brook Trout,9.0
+2018,La Rue Creek,April,700.0,Brown Trout,7.9
+2017,Snyders Lake,June,2000.0,Walleye,0.0
+2015,Randall Pond,October,200.0,Brown Trout,11.9
+2019,Silver Lake,May,1850.0,Brook Trout,5.8
+2012,Croton River East Branch,April,300.0,Brown Trout,13.3
+2012,Pea Pond,September,100.0,Brook Trout,4.1
+2020,Sacandaga Lake,April,1100.0,Brown Trout,7.9
+2020,Sprague Brook Park Veteran's P,April,80.0,Brown Trout,13.6
+2020,Sugar Creek,March,900.0,Brook Trout,8.5
+2014,"White Brook, and T-3 of White Brook",May,300.0,Brook Trout,8.0
+2014,Butternut Creek,April,600.0,Brown Trout,12.2
+2012,Hans Creek,April,490.0,Brown Trout,8.1
+2017,Round Pond,April,820.0,Brown Trout,8.8
+2016,Little York Lake,April,860.0,Brown Trout,8.0
+2016,Crab Pond,May,390.0,Brown Trout,8.0
+2016,Cryder Creek,April,200.0,Brown Trout,13.6
+2020,Bone Run,March,220.0,Brown Trout,9.0
+2017,Sylvia Lake,May,3000.0,Rainbow Trout,9.1
+2018,Mongaup Creek,May,220.0,Brown Trout,9.1
+2015,Shiras Pond,September,300.0,Brook Trout,4.6
+2013,Vandermark Creek,April,870.0,Brown Trout,8.5
+2019,Jessup River,October,1000.0,Landlocked Salmon,6.2
+2013,Chateaugay River,April,1090.0,Brown Trout,8.1
+2013,Canaseraga Creek,April,500.0,Brown Trout,13.3
+2013,Como Park Lake,April,200.0,Rainbow Trout,9.2
+2019,Rochester Creek,April,50.0,Brown Trout,13.3
+2011,Onesquethaw Creek,April,100.0,Brown Trout,13.0
+2011,Indian River,May,500.0,Brown Trout,13.6
+2019,Cryder Creek,May,970.0,Brown Trout,8.7
+2011,Cattaraugus Creek,June,1000.0,Brown Trout,13.5
+2019,McKenzie Brook,April,400.0,Brook Trout,8.0
+2017,Bone Pond,September,550.0,Brook Trout,5.0
+2013,Crane Pond,May,330.0,Lake Trout,7.4
+2013,Carmans River,April,100.0,Brown Trout,13.3
+2019,Hudson River,April,400.0,Rainbow Trout,16.0
+2017,Third Lake Essex Chain,May,2000.0,Rainbow Trout,8.0
+2012,Massapequa Reservoir,April,300.0,Brown Trout,13.5
+2017,ALLEGHENY RIVER,June,4000.0,Muskellunge,1.7
+2012,Carmans River,March,220.0,Brown Trout,8.8
+2016,Upper Corinth Reservoir,June,250.0,Brook Trout,8.7
+2014,Little Otter Lake,June,1250.0,Brook Trout,10.0
+2018,Black River,April,4870.0,Brown Trout,7.9
+2013,Mud Pond,May,70.0,Brown Trout,9.2
+2016,Trout Brook 3,April,600.0,Brook Trout,10.0
+2014,Holding Pond,April,160.0,Rainbow Trout,9.0
+2020,Malone Village Pond,March,80.0,Rainbow Trout,8.5
+2020,Lost Pond,May,750.0,Rainbow Trout,8.6
+2015,Shaw Pond,September,1000.0,Brook Trout,4.0
+2012,Otter Creek,May,250.0,Brown Trout,12.7
+2014,Six Mile Waterworks,April,1580.0,Rainbow Trout,9.6
+2020,Grizzzle Ocean,September,780.0,Brook Trout,3.9
+2016,Minerva Stream,April,250.0,Brown Trout,13.0
+2013,"Enfield Ck, T4",April,440.0,Brown Trout,9.0
+2014,Town of sullivan,April,5.0,Rainbow Trout,26.0
+2012,Balfour Lake,May,750.0,Rainbow Trout,8.3
+2012,Massapequa Reservoir,November,700.0,Brown Trout,11.6
+2014,Willsboro Club Pond 2,April,80.0,Rainbow Trout,8.9
+2011,East Canada Creek,April,6270.0,Brown Trout,8.2
+2019,Sauquoit Creek,April,330.0,Brown Trout,12.4
+2020,Eldridge Lake,November,1000.0,Brown Trout,6.6
+2014,Bear Lake Outlet,April,790.0,Brown Trout,9.2
+2016,Paisley Park Pond,March,40.0,Brook Trout,9.4
+2011,Eighteenmile Creek,March,640.0,Brown Trout,8.2
+2011,Upper Twin Pond,November,700.0,Brown Trout,11.2
+2013,Stony Brook,April,250.0,Brown Trout,8.4
+2018,Limestone Creek,April,2100.0,Brown Trout,8.0
+2018,Upper Spectacle Pond,September,1000.0,Brook Trout,4.0
+2011,Brother Ponds,October,300.0,Brook Trout,4.2
+2020,Cohocton River,December,2400.0,Brown Trout,7.3
+2012,North Creek,April,340.0,Brook Trout,8.4
+2015,Sylvia Lake,May,3000.0,Rainbow Trout,9.0
+2016,Ischua Creek,April,550.0,Brown Trout,13.9
+2018,Negro Lake,May,300.0,Landlocked Salmon,6.8
+2015,Trout Brook,April,1450.0,Brown Trout,8.0
+2015,Lost Pond,September,300.0,Brook Trout,4.0
+2016,Spring Brook,March,260.0,Brown Trout,8.1
+2017,Edgecomb Pond,April,600.0,Rainbow Trout,9.0
+2020,Eagles Nest Pond,September,200.0,Brook Trout,3.9
+2020,First Lake,September,780.0,Brook Trout,4.8
+2015,Halfway Brook,May,1240.0,Brown Trout,8.8
+2016,Rutgers Creek,March,340.0,Brown Trout,9.0
+2015,New Albion Lake,October,200.0,Brook Trout,12.8
+2016,Mill Creek 1,April,600.0,Brook Trout,10.0
+2012,Park Station Pond,April,450.0,Brown Trout,13.5
+2011,Cold Brook,April,125.0,Brown Trout,8.0
+2013,Hessian Lake,March,580.0,Brown Trout,8.6
+2014,Riley Brook,May,180.0,Brown Trout,9.1
+2015,Quaker Lake,October,100.0,Brown Trout,27.5
+2020,Little Rock Pond,October,700.0,Brook Trout,4.2
+2020,Carmans River,March,180.0,Brown Trout,8.8
+2011,Lebanon Reservoir,April,2000.0,Rainbow Trout,7.9
+2011,Mud Lake,October,200.0,Brook Trout,4.8
+2019,Beer Kill West Branch,April,1150.0,Brown Trout,8.7
+2011,Belmont Lake,April,250.0,Brown Trout,13.1
+2013,Buffalo Creek,May,730.0,Brown Trout,8.9
+2020,Taghkanic Creek,April,200.0,Brown Trout,13.0
+2012,Vly Creek,April,270.0,Brown Trout,7.9
+2011,Owego Creek,May,850.0,Brown Trout,9.5
+2018,Roes Pond,May,200.0,Brown Trout,12.0
+2019,Beaver Creek,April,2040.0,Brown Trout,7.6
+2020,Westwood Park Pond,March,230.0,Rainbow Trout,8.1
+2016,Boreas River,March,500.0,Brown Trout,13.0
+2019,Cayuta Lake,June,7559.0,Walleye,1.3
+2017,Mettawee River,April,4400.0,Rainbow Trout,8.6
+2019,Ozonia Lake,April,488.0,Landlocked Salmon,7.3
+2013,Long Pond,September,1800.0,Brook Trout,3.4
+2020,Cold Brook,April,4500.0,Rainbow Trout,6.1
+2017,Meads Creek,March,300.0,Brown Trout,12.7
+2013,Mongaup Creek,April,20.0,Brown Trout,13.2
+2017,Spruce Mill Brook,May,1000.0,Brook Trout,8.4
+2019,Cross River Reservoir Outlet,April,100.0,Brown Trout,13.2
+2011,Plum Brook,May,200.0,Brown Trout,14.1
+2015,Rome Reservoir,October,4000.0,Brown Trout,5.6
+2016,Amawalk Inlet,March,560.0,Brown Trout,9.0
+2013,Lake Luzerne,May,360.0,Brown Trout,8.0
+2020,Salmon River,May,600.0,Brook Trout,7.6
+2018,Long Pond,September,480.0,Brook Trout,4.0
+2019,Neversink Reservoir,May,850.0,Landlocked Salmon,8.1
+2012,Deep Hollow (Kilkenny) Pond (Derby/Special Kids Area),May,350.0,Rainbow Trout,18.0
+2018,State Barge Canal,September,1200.0,Tiger Muskellunge,9.5
+2011,Thrall Dam Pond,April,560.0,Brook Trout,8.9
+2012,Schroon Lake,November,319.0,Landlocked Salmon,1.2
+2011,Steele Creek,April,900.0,Rainbow Trout,8.1
+2020,Jackson Pond,September,420.0,Brook Trout,4.8
+2018,Ringwood River,April,300.0,Brown Trout,9.0
+2011,Bear Pond,October,2500.0,Brook Trout,3.7
+2019,Chilson Brook,April,350.0,Brook Trout,8.2
+2019,Grindstone Creek,April,5000.0,Steelhead,4.8
+2017,Clear Pond,October,100.0,Brook Trout,4.4
+2012,Fort Pond,June,4000.0,Walleye,1.5
+2017,Handsome Pond,September,4000.0,Brook Trout,4.0
+2019,Case Lake,April,1800.0,Brook Trout,9.2
+2017,Poor Lake,September,1000.0,Brook Trout,5.0
+2019,Stony Pond,October,3480.0,Brook Trout,4.5
+2011,Long Pond,October,300.0,Brook Trout,4.8
+2012,Upper Lake,April,150.0,Brown Trout,13.5
+2014,Shingle Kill,March,880.0,Brown Trout,8.8
+2019,Blue Pond,September,360.0,Brook Trout,4.0
+2017,Chub Pond,May,120.0,Brown Trout,8.0
+2018,Cattaraugus Creek,March,600.0,Brown Trout,12.9
+2017,Mckenzie Pond,May,250.0,Landlocked Salmon,7.0
+2018,First Lake,May,520.0,Rainbow Trout,8.3
+2012,Ramapo River,April,400.0,Brown Trout,13.0
+2019,Cattaraugus Creek,April,2660.0,Brown Trout,8.4
+2020,Icehouse Pond,September,320.0,Brook Trout,4.6
+2020,Crandall Park 2,April,100.0,Rainbow Trout,15.0
+2016,Tonawanda Creek,March,200.0,Brown Trout,13.6
+2017,North Branch Boquet River,April,600.0,Brook Trout,12.0
+2013,Halfway Creek,April,1450.0,Brown Trout,7.9
+2018,Grindstone Creek,April,5280.0,Steelhead,4.4
+2013,Payne Lake,September,800.0,Tiger Muskellunge,8.9
+2020,Skinner Creek,April,290.0,Brown Trout,7.8
+2016,Elton Creek,May,860.0,Brown Trout,9.4
+2011,Amos Lake,September,150.0,Brook Trout,4.1
+2016,Little Beaverkill,April,240.0,Brown Trout,13.6
+2016,Fall Creek,April,1200.0,Brook Trout,8.4
+2019,Hessian Lake,April,710.0,Brown Trout,8.8
+2014,First Lake,September,1200.0,Brook Trout,3.2
+2013,South Twin Pond,September,200.0,Brook Trout,3.7
+2014,Spruce Creek,April,2640.0,Brown Trout,7.9
+2019,Kibby Pond,September,1440.0,Brook Trout,4.5
+2013,Polliwog Pond,April,1530.0,Brown Trout,8.1
+2019,New Albion Lake,October,50.0,Brown Trout,24.5
+2019,Round Pond,September,120.0,Brook Trout,4.0
+2020,Lower Lelands Pond,August,200.0,Tiger Muskellunge,9.9
+2016,Deer Creek,April,250.0,Brown Trout,13.0
+2020,Hessian Lake,April,100.0,Brown Trout,13.5
+2011,Tamarack Pond,October,850.0,Brook Trout,3.7
+2011,Lake Ontario,June,3430.0,Brown Trout,9.5
+2017,Boy Scout Clear Pond,October,1000.0,Splake,5.4
+2015,Basswood Pond,May,130.0,Brown Trout,13.5
+2019,Mongaup River West Branch,April,30.0,Brown Trout,13.3
+2019,South Branch West Canada Creek,May,2000.0,Brook Trout,8.0
+2017,Mud Lake,September,1300.0,Brook Trout,5.0
+2019,Waccabuc River,March,440.0,Brown Trout,8.8
+2019,Fall Creek,April,300.0,Brown Trout,13.8
+2016,Lake George(Million Dollar Beach),October,1500.0,Landlocked Salmon,10.0
+2014,Forks Creek,May,770.0,Brown Trout,8.9
+2015,Crane Pond,May,1500.0,Rainbow Trout,8.1
+2016,Quaker Lake,May,3620.0,Brown Trout,9.2
+2014,Fulmer Creek,May,300.0,Brown Trout,8.2
+2017,Little Moose Pond,September,1500.0,Brook Trout,5.0
+2014,Hemlock Lake,May,3200.0,Lake Trout,9.9
+2013,Stillwater Pond,April,730.0,Brown Trout,8.5
+2017,Canadaway Creek,April,50.0,Brown Trout,13.4
+2015,Halfway Creek,May,1710.0,Brown Trout,8.0
+2013,Huntley Pond,September,2000.0,Brook Trout,4.1
+2020,Upper Chateaugay Lake,March,5000.0,Lake Trout,6.7
+2020,South Sandy Creek,April,380.0,Brook Trout,8.8
+2012,Little Beaverkill,May,530.0,Brown Trout,8.8
+2012,West Caroga Lake,May,4100.0,Splake,8.9
+2014,Black River,June,4420.0,Rainbow Trout,9.2
+2019,Askoti Lake,April,100.0,Brown Trout,13.3
+2017,Tuesday Pond,September,200.0,Brook Trout,5.0
+2015,Stone Hill River,April,430.0,Brown Trout,8.3
+2019,Little Pond,April,200.0,Rainbow Trout,8.9
+2018,Little Salmon River,April,2090.0,Brown Trout,8.7
+2017,Cole Brook,April,170.0,Brown Trout,7.9
+2013,Allegheny Reservoir,July,350.0,Paddlefish,14.0
+2020,Owasco Inlet,April,400.0,Brown Trout,13.5
+2019,Roeliff Jansen Kill,May,350.0,Brown Trout,13.5
+2013,Moodna Creek,March,100.0,Brown Trout,13.2
+2014,Big Pond,April,220.0,Brown Trout,8.9
+2015,Ransom Brook,April,260.0,Brown Trout,7.8
+2015,Ozonia Lake,April,3000.0,Rainbow Trout,9.0
+2020,Moodna Creek,March,810.0,Brown Trout,8.7
+2011,Otis Brook,May,170.0,Brown Trout,8.5
+2011,NW Bay Brook,May,400.0,Brook Trout,10.7
+2020,Roe's Pond,March,150.0,Brown Trout,8.6
+2014,Sconondoa Creek,May,650.0,Brown Trout,8.1
+2016,Dyke Creek,April,200.0,Brown Trout,13.6
+2018,Little Jabe Pond,October,325.0,Brook Trout,3.5
+2016,Lydia Pond,October,630.0,Brook Trout,5.5
+2014,Beer Kill West Branch,April,1120.0,Brown Trout,8.6
+2015,Eighteenmile Creek,April,7500.0,Steelhead,4.8
+2020,Mill Pond 1,April,225.0,Rainbow Trout,15.0
+2011,Cowhorn Pond,October,500.0,Brook Trout,5.5
+2013,Vernooy Kill,April,180.0,Brown Trout,8.7
+2020,Croton River West Branch,March,100.0,Brown Trout,12.8
+2015,Basswood Pond,May,260.0,Brown Trout,8.3
+2014,Peekskill Hollow Brook,March,150.0,Brown Trout,13.5
+2018,Cazenovia Creek-East Branch,March,2700.0,Brown Trout,8.7
+2017,Deer Pond,October,1400.0,Brook Trout,5.0
+2013,Limestone,April,325.0,Brown Trout,12.5
+2013,Jockeybush Lake,September,500.0,Brook Trout,3.7
+2015,Taylor Pond,November,109.0,Landlocked Salmon,25.0
+2015,Green Lakes,May,500.0,Rainbow Trout,14.0
+2014,John Mack Pond,September,900.0,Brook Trout,3.2
+2013,Panther Pond,September,300.0,Brook Trout,4.1
+2012,West Branch Ausable (Ausable Acres),April,250.0,Rainbow Trout,14.0
+2018,Buckhorn Pond,September,480.0,Brook Trout,4.3
+2019,Round Pond,May,300.0,Rainbow Trout,8.2
+2016,Beer Kill West Branch,April,100.0,Brown Trout,13.7
+2013,Ayers Creek,April,360.0,Brown Trout,7.9
+2017,Woodland Valley Stream,April,210.0,Brown Trout,8.8
+2019,Panther Pond,October,360.0,Brook Trout,4.0
+2019,Mad River,April,3460.0,Brown Trout,7.5
+2020,Lindsey Pond,September,130.0,Brook Trout,4.5
+2017,Black Creek,May,1700.0,Brook Trout,9.0
+2015,Gill Creek,April,560.0,Brown Trout,8.3
+2018,Whey Pond,April,1300.0,Brown Trout,8.0
+2020,Bay State Brook,March,400.0,Brown Trout,8.1
+2011,East Lake,March,500.0,Rainbow Trout,8.1
+2013,Cayuta Creek,April,450.0,Brown Trout,13.2
+2015,West Branch Fish Creek,April,1370.0,Brown Trout,7.9
+2013,Quaker Run,April,670.0,Brown Trout,8.7
+2015,Cayuta Creek,April,1880.0,Brown Trout,9.0
+2017,Owasco Lake,May,4280.0,Brown Trout,9.0
+2013,Carlls River,March,100.0,Brown Trout,13.3
+2020,Neversink River,April,1300.0,Brook Trout,8.2
+2011,Cassadaga Creek,May,420.0,Brown Trout,8.4
+2015,Colgate Lake,May,100.0,Brown Trout,12.8
+2019,Chazy Lake,May,1500.0,Lake Trout,6.6
+2011,Cattaraugus Creek S Br,March,1020.0,Brown Trout,8.3
+2020,Case Lake,November,350.0,Brook Trout,14.0
+2011,Glen Lake,June,2600.0,Rainbow Trout,8.6
+2018,"Enfield Ck, T4",April,520.0,Brown Trout,8.9
+2017,Geddes Brook,March,500.0,Brown Trout,8.0
+2013,Trout Lake,April,3400.0,Rainbow Trout,9.0
+2015,Little Conewango Creek,March,1500.0,Brown Trout,8.6
+2017,Salmon Creek,April,5050.0,Steelhead,4.0
+2015,North Branch Saranac River,May,730.0,Brown Trout,7.9
+2011,Cattaraugus Creek,May,1440.0,Brown Trout,9.0
+2014,Quaker Lake,October,100.0,Brown Trout,25.5
+2014,Ward Pond,May,127.0,Brown Trout,8.2
+2015,Stillwater Reservoir,May,1360.0,Splake,8.2
+2019,Cranberry Lake,October,5000.0,Brook Trout,4.0
+2018,Paradox Lake,May,500.0,Landlocked Salmon,7.0
+2011,Sandy Creek,April,8500.0,Steelhead,4.7
+2017,Little Conewango Creek,March,1440.0,Brown Trout,9.2
+2011,Crandall Park Pond,May,400.0,Rainbow Trout,15.0
+2012,Connetquot River,March,270.0,Brown Trout,8.4
+2014,Meacham Lake,May,2600.0,Splake,8.4
+2011,Little York Lake,May,850.0,Brown Trout,7.2
+2018,Horseshoe Pond,September,150.0,Brook Trout,4.6
+2019,Black River,May,1500.0,Brown Trout,13.0
+2011,Tuesday Pond,October,300.0,Brook Trout,4.8
+2015,Mountain Pond,May,2500.0,Brook Trout,2.5
+2013,Basswood Pond,April,130.0,Brown Trout,13.5
+2020,Mahwah River,March,740.0,Brown Trout,9.1
+2013,Park Station Pond,October,25.0,Brook Trout,20.7
+2013,County Pond B,May,100.0,Brook Trout,9.0
+2016,Roes Pond,May,200.0,Rainbow Trout,18.0
+2012,Redfield Sportsmen's Pond,May,100.0,Brook Trout,9.0
+2018,Palmer Dam Pond,April,250.0,Brown Trout,12.0
+2019,Rutgers Creek,April,350.0,Brown Trout,8.8
+2016,Shaver Pond,April,600.0,Rainbow Trout,9.7
+2013,Otselic River,May,330.0,Brown Trout,8.2
+2015,Hinckley Reservoir,June,1000.0,Rainbow Trout,8.8
+2013,Geddes Brook,May,50.0,Rainbow Trout,12.9
+2019,Bonaparte Lake,May,3010.0,Brown Trout,7.4
+2017,Upton Lake,May,580.0,Brown Trout,9.2
+2017,Letchworth Park Pond,May,300.0,Brook Trout,9.4
+2019,Mohawk River,November,470.0,Brook Trout,0.0
+2013,Stony Creek,April,2500.0,Brook Trout,8.8
+2017,Holding Pond,April,160.0,Brown Trout,8.9
+2020,Roes Pond,April,200.0,Brown Trout,14.0
+2015,Hudson River,June,150.0,Rainbow Trout,13.0
+2020,Great Sacandaga Lake,April,2500.0,Rainbow Trout,8.0
+2017,Saranac River,May,100.0,Brown Trout,15.0
+2015,Schroon River,May,700.0,Rainbow Trout,9.0
+2011,Kecks Center Creek,June,380.0,Brown Trout,8.8
+2016,Geddes Brook,March,500.0,Brown Trout,8.0
+2018,Hawk Pond,October,750.0,Brook Trout,4.4
+2013,Randall Pond,October,200.0,Brown Trout,11.1
+2012,Mongaup Creek,May,220.0,Brown Trout,9.2
+2019,Thirteenth Lake 2,May,934.0,Rainbow Trout,9.0
+2016,Round Pond,September,100.0,Brook Trout,5.0
+2019,Carlls River,May,90.0,Brown Trout,9.0
+2013,Bumps Pond,September,350.0,Brook Trout,3.4
+2012,Second Pond,April,220.0,Brown Trout,9.0
+2011,"Dodge Creek, T17",March,330.0,Brook Trout,8.9
+2018,North Lake,May,3000.0,Splake,8.1
+2012,Fishkill Creek,March,1690.0,Brown Trout,8.4
+2018,Argyle Lake,March,150.0,Brown Trout,13.0
+2013,Cleveland Lake,September,200.0,Brook Trout,4.1
+2018,Six Mile Waterworks,May,870.0,Rainbow Trout,9.2
+2017,Little Beaverkill,May,500.0,Brown Trout,8.6
+2013,Palmer Pond,May,500.0,Rainbow Trout,10.0
+2017,Gooseneck Pond,May,700.0,Rainbow Trout,8.0
+2017,Eldridge Lake,April,150.0,Brown Trout,12.6
+2011,Quaker Lake,April,400.0,Brown Trout,12.8
+2012,Mongaup River Middle Branch,April,1250.0,Brown Trout,8.5
+2019,Third Lake,October,2520.0,Brook Trout,4.3
+2017,Blue Lake,April,100.0,Brown Trout,13.1
+2016,New Albion Lake,March,2410.0,Brown Trout,8.4
+2015,Dodge Creek,May,1280.0,Brown Trout,9.2
+2018,Durkee Park Pond,April,50.0,Brown Trout,12.4
+2013,Fort Pond,June,4000.0,Walleye,1.4
+2016,Cowhorn Pond,October,500.0,Brook Trout,4.0
+2017,Lime Lake,June,3178.0,Walleye,1.5
+2020,Big Trout Pond,September,2275.0,Brook Trout,4.5
+2019,Fall Creek,April,3010.0,Brown Trout,9.0
+2017,Big Moose Lake,April,200.0,Lake Trout,6.6
+2014,Case Lake,October,150.0,Brook Trout,15.3
+2017,Beaver Brook,May,450.0,Brown Trout,9.4
+2011,Green Pond,September,800.0,Brook Trout,4.5
+2020,Ramapo River,March,530.0,Rainbow Trout,8.9
+2014,Belmont Rod and Gun Club Pond,April,100.0,Brook Trout,9.2
+2015,Bloody Pond,October,200.0,Brook Trout,4.3
+2013,Case Lake,October,50.0,Brown Trout,21.3
+2019,Bartlett Pond,September,240.0,Brook Trout,4.0
+2013,Horseshoe Pond,May,1000.0,Rainbow Trout,8.0
+2019,Belmont Lake,March,100.0,Brown Trout,13.2
+2013,Nanticoke Lake,April,2300.0,Rainbow Trout,9.1
+2011,Chittenango Creek,May,200.0,Brook Trout,8.3
+2013,Upper Lake,April,150.0,Brown Trout,13.3
+2017,Kahler Pond,October,300.0,Brown Trout,12.2
+2014,Carpenters Brook,May,100.0,Brook Trout,6.6
+2018,West Kill,April,440.0,Brown Trout,9.0
+2011,Canandaigua Outlet,March,160.0,Brown Trout,12.9
+2020,Lake Flavia,March,1260.0,Brook Trout,10.1
+2019,Glass Lake,June,1150.0,Rainbow Trout,8.7
+2014,Brant Lake,May,2840.0,Brown Trout,9.0
+2015,Batten Kill,May,250.0,Brown Trout,13.4
+2016,Whaley Lake Brook,April,560.0,Brown Trout,8.9
+2014,Curtis Pond,October,500.0,Brook Trout,4.1
+2014,Mongaup Creek,April,180.0,Brown Trout,8.7
+2013,Great Valley Creek,May,1020.0,Brown Trout,8.9
+2019,Cross Lake,August,5000.0,Tiger Muskellunge,8.0
+2011,Lake Ontario,May,940.0,Lake Trout,6.5
