@@ -13,7 +13,7 @@ def linear_model(x_train, x_test, y_train, y_test):
     model_lin.fit(x_train, y_train)
     y_predicted_lin = model_lin.predict(x_test)
     print("\nMean absolute percentage error from linearRegression:")
-    print(mean_absolute_percentage_error(y_test, y_predicted_lin))
+    print('{}%'.format(mean_absolute_percentage_error(y_test, y_predicted_lin)))
     print("Mean squared error from linearRegression:")
     print(mean_squared_error(y_test, y_predicted_lin))
     return y_predicted_lin
@@ -24,7 +24,7 @@ def SVR_model(x_train, x_test, y_train, y_test):
     model_svr.fit(x_train, y_train)
     y_predicted_svr = model_svr.predict(x_test)
     print("\nMean absolute percentage error from SVR")
-    print(mean_absolute_percentage_error(y_test, y_predicted_svr))
+    print('{}%'.format(mean_absolute_percentage_error(y_test, y_predicted_svr)))
     print("Mean squared error from SVR")
     print(mean_squared_error(y_test, y_predicted_svr))
     return y_predicted_svr
@@ -35,7 +35,7 @@ def custom_model(x_train, x_test, y_train, y_test):
     model_custom = CustomModelWrapper(func, parameters)
     y_predicted_custom = model_custom.predict(x_test)
     print("\nMean absolute percentage error from curve_fit")
-    print(mean_absolute_percentage_error(y_test, y_predicted_custom))
+    print('{}%'.format(mean_absolute_percentage_error(y_test, y_predicted_custom)))
     print("Mean squared error from curve_fit")
     print(mean_squared_error(y_test, y_predicted_custom))
     return y_predicted_custom
@@ -47,21 +47,18 @@ if __name__ == '__main__':
 
     # Linear model
     y_predicted_l = linear_model(x_train, x_test, y_train, y_test)
-
     # Model SVR(Support Vector Regression)
     y_predicted_s = SVR_model(x_train, x_test, y_train, y_test)
-
     # Custom model
     y_predicted_c = custom_model(x_train, x_test, y_train, y_test)
 
     reach = range(0, int(len(y_test)))
-
-    plt.title('Regressions and actual values')
+    plt.title('Linear regression')
     plt.xlabel("Test number")
     plt.ylabel("Number of fish")
 
     plt.scatter(reach, y_test)
-    plt.plot(reach, y_predicted_l, 'b', label='linear regression')
-    plt.plot(reach, y_predicted_s, 'c', label='SVR model regression')
-    plt.plot(reach, y_predicted_c, 'r', label='custom regression')
+    plt.scatter(reach, y_predicted_l, color='b')
+    plt.scatter(reach, y_predicted_s, color='c')
+    plt.scatter(reach, y_predicted_c, color='r')
     plt.show()
