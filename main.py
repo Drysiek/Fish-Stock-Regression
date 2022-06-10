@@ -1,6 +1,6 @@
 from fish_model import get_data, func, CustomModelWrapper
 from scipy.optimize import curve_fit
-import seaborn as sns
+import numpy as np
 from matplotlib import pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
@@ -8,44 +8,57 @@ from sklearn.svm import SVR
 from sklearn.metrics import mean_squared_error, mean_absolute_percentage_error
 
 
-if __name__ == '__main__':
-    X, Y = get_data()
-    X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=.20, random_state=40)
-
-    # Model liniowy
+def linear_model(x_train, x_test, y_train, y_test):
     model_lin = LinearRegression()
-    model_lin.fit(X_train, Y_train)
-    Y_predicted_lin = model_lin.predict(X_test)
+    model_lin.fit(x_train, y_train)
+    y_predicted_lin = model_lin.predict(x_test)
     print("\nMean absolute percentage error from linearRegression:")
-    print(mean_absolute_percentage_error(Y_test, Y_predicted_lin))
+    print('{}%'.format(mean_absolute_percentage_error(y_test, y_predicted_lin)))
     print("Mean squared error from linearRegression:")
-    print(mean_squared_error(Y_test, Y_predicted_lin))
+    print(mean_squared_error(y_test, y_predicted_lin))
+    return y_predicted_lin
 
-    # Model SVR(Support Vector Regression)
+
+def SVR_model(x_train, x_test, y_train, y_test):
     model_svr = SVR()
-    model_svr.fit(X_train, Y_train)
-    Y_predicted_svr = model_svr.predict(X_test)
-    print("\nBMean absolute percentage error from SVR")
-    print(mean_absolute_percentage_error(Y_test, Y_predicted_svr))
+    model_svr.fit(x_train, y_train)
+    y_predicted_svr = model_svr.predict(x_test)
+    print("\nMean absolute percentage error from SVR")
+    print('{}%'.format(mean_absolute_percentage_error(y_test, y_predicted_svr)))
     print("Mean squared error from SVR")
-    print(mean_squared_error(Y_test, Y_predicted_svr))
+    print(mean_squared_error(y_test, y_predicted_svr))
+    return y_predicted_svr
 
-    parameters, _ = curve_fit(func, xdata=X_train, ydata=Y_train.values.ravel())
+
+def custom_model(x_train, x_test, y_train, y_test):
+    parameters, _ = curve_fit(func, xdata=x_train, ydata=y_train.values.ravel(), p0=np.ones(len(x_train.columns) + 1))
     model_custom = CustomModelWrapper(func, parameters)
-    Y_predicted_custom = model_custom.predict(X_test)
-    print('\n')
-    # print(parameters)
-    print("Mean absolute percentage error from curvefit")
-    print(mean_absolute_percentage_error(Y_test, Y_predicted_custom))
-    print("Mean squared error from curvefit")
-    print(mean_squared_error(Y_test, Y_predicted_custom))
+    y_predicted_custom = model_custom.predict(x_test)
+    print("\nMean absolute percentage error from curve_fit")
+    print('{}%'.format(mean_absolute_percentage_error(y_test, y_predicted_custom)))
+    print("Mean squared error from curve_fit")
+    print(mean_squared_error(y_test, y_predicted_custom))
+    return y_predicted_custom
 
-    zasieg = int(len(Y_test))
 
-    sns.scatterplot(x=range(0, zasieg), y=Y_test, color="white", edgecolor="black")
-    sns.lineplot(x=range(0, zasieg), y=Y_predicted_lin, color="red")
-    sns.lineplot(x=range(0, zasieg), y=Y_predicted_svr, color="green")
-    sns.lineplot(x=range(0, zasieg), y=Y_predicted_custom, color="orange")
+if __name__ == '__main__':
+    x, y = get_data()
+    x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=.20, random_state=40)
+
+    # Linear model
+    y_predicted_l = linear_model(x_train, x_test, y_train, y_test)
+    # Model SVR(Support Vector Regression)
+    y_predicted_s = SVR_model(x_train, x_test, y_train, y_test)
+    # Custom model
+    y_predicted_c = custom_model(x_train, x_test, y_train, y_test)
+
+    reach = range(0, int(len(y_test)))
+    plt.title('Linear regression')
+    plt.xlabel("Test number")
+    plt.ylabel("Number of fish")
+
+    plt.scatter(reach, y_test)
+    plt.scatter(reach, y_predicted_l, color='b')
+    plt.scatter(reach, y_predicted_s, color='c')
+    plt.scatter(reach, y_predicted_c, color='r')
     plt.show()
-
-    # sns.scatterplot(x=range(0, zaiseg), y=Y_test, color="white", edgecolor="black")
