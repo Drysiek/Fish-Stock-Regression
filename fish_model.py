@@ -2,10 +2,10 @@ import pandas as pd
 import os
 
 
-def get_data():
+def get_data(new_file, how_many):
     file = 'random_fish_stocking_rows.csv'
-    if not os.path.isfile(file):
-        print('Downlaoding data from: ', 'Fish Stocking.csv')
+    if not os.path.isfile(file) or new_file:
+        print('Downlaoding data from: Fish Stocking.csv')
         data_frame = pd.read_csv('Fish Stocking.csv', sep=',')
         data_frame = data_frame[data_frame['Year'].notnull()]
         data_frame = data_frame[data_frame['Waterbody'].notnull()]
@@ -20,13 +20,14 @@ def get_data():
         bool_series = data_frame.duplicated(['Year', 'Waterbody', 'Month', 'Species', 'Size'], keep=False)
         data_frame = data_frame[~bool_series]
 
-        data_frame = data_frame.sample(n=600)
+        data_frame = data_frame.sample(n=how_many)
         data_frame.to_csv(file, index=False, sep=',')
         print('Downloaded')
     else:
         print(f'File {file} already exists')
 
     x = pd.read_csv(file, sep=',')
+
     y = x['Number']
     x = x.drop(['Number'], axis=1)
 
