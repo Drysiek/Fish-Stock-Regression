@@ -50,7 +50,7 @@ if __name__ == '__main__':
     else:
         new_file = False
 
-    how_many = 0
+    how_many = 100
     if new_file:
         while int(how_many) < 10 or int(how_many) > 5000 or not how_many.isnumeric():
             how_many = input('How many rows do you want to draw?\nType a number between 10 and 5000')
