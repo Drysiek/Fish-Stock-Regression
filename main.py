@@ -52,7 +52,7 @@ if __name__ == '__main__':
 
     how_many = str(0)
     if new_file:
-        while int(how_many) < 10 or int(how_many) > 5000 or not how_many.isnumeric():
+        while not how_many.isnumeric() or int(how_many) < 10 or int(how_many) > 5000:
             how_many = input('How many rows do you want to draw?\nType a number between 10 and 5000')
 
     x, y = get_data(new_file, int(how_many))
